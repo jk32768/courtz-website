@@ -387,3 +387,91 @@ ul{
     }
 
 }
+
+/* ==========================================================
+   Sports
+   ========================================================== */
+
+.sports-grid{
+    display:grid;
+    grid-template-columns:repeat(5,1fr);
+    gap:1.5rem;
+}
+
+.sport-card{
+    background:#fff;
+    border-radius:20px;
+    padding:2rem 1rem;
+    text-align:center;
+    box-shadow:0 12px 35px rgba(15,23,42,.08);
+    transition:.25s ease;
+}
+
+.sport-card:hover{
+    transform:translateY(-6px);
+}
+
+.sport-card img{
+    width:56px;
+    height:56px;
+    margin:0 auto 1.25rem;
+}
+
+.sport-card h3{
+    margin:0;
+    font-size:1.1rem;
+}
+
+
+/* ==========================================================
+   CTA Banner
+   ========================================================== */
+
+.cta-banner{
+    padding:0 0 5rem;
+}
+
+.cta-panel{
+    background:linear-gradient(135deg,#0ea5a4,#0284c7);
+    color:white;
+    border-radius:28px;
+    padding:3rem;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:2rem;
+}
+
+.cta-panel h2{
+    margin:0 0 1rem;
+    font-size:2rem;
+}
+
+.cta-panel p{
+    margin:0;
+    opacity:.95;
+    max-width:40rem;
+}
+
+.cta-panel .primary-button{
+    background:white;
+    color:#0f172a;
+}
+
+.cta-panel .primary-button:hover{
+    background:#f1f5f9;
+}
+
+@media (max-width:900px){
+
+    .sports-grid{
+        grid-template-columns:repeat(2,1fr);
+    }
+
+    .cta-panel{
+        flex-direction:column;
+        text-align:center;
+    }
+
+}
+
