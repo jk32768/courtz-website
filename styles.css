@@ -406,3 +406,55 @@ a{
     height:72px;
     color:var(--green-dark);
 }
+
+/*======================================================
+  Problem & Feature Icons
+======================================================*/
+
+.problem-icon,
+.feature-icon{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-shrink:0;
+
+}
+
+.problem-icon{
+
+    margin-bottom:24px;
+
+}
+
+.problem-icon svg{
+
+    width:72px;
+    height:72px;
+
+    color:var(--green-dark);
+
+}
+
+.feature-icon{
+
+    width:72px;
+    height:72px;
+
+    border-radius:50%;
+
+    background:white;
+
+    box-shadow:
+        0 10px 25px rgba(15,23,42,.08);
+
+}
+
+.feature-icon svg{
+
+    width:34px;
+    height:34px;
+
+    color:var(--green-dark);
+
+}
