@@ -30,6 +30,7 @@ img{
 a{
     text-decoration:none;
     color:inherit;
+    transition:color .25s ease;
 }
 
 ul{
@@ -47,6 +48,20 @@ a:focus-visible,
 button:focus-visible{
     outline:3px solid #0ea5a4;
     outline-offset:3px;
+}
+
+@media (prefers-reduced-motion: reduce){
+
+    html{
+        scroll-behavior:auto;
+    }
+
+    *,
+    *::before,
+    *::after{
+        transition:none !important;
+    }
+
 }
 
 /* ==========================================================
