@@ -2,6 +2,22 @@
    Organiser Features
    ========================================================== */
 
+.supported-sports {
+    text-align: center;
+    margin: 1.5rem auto 3rem;
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+}
+
+.supported-sports strong {
+    color: var(--text-primary);
+    margin-right: 0.5rem;
+}
+
+.supported-sports span {
+    margin: 0 0.6rem;
+    color: var(--border-color);
+}
 .feature-grid{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(340px,1fr));
