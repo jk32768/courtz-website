@@ -62,6 +62,10 @@
     width: 500px;
 }
 
+.session-profiles-screenshot {
+    max-width: 420px;
+}
+
 @media (max-width:900px){
 
     .workflow-layout{
