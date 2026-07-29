@@ -8,13 +8,13 @@
 
 .workflow-layout {
     display: grid;
-    grid-template-columns: 38% 62%;
+    grid-template-columns: 1fr 1fr;
     gap: 3rem;
     align-items: start;
 }
 
 .workflow-reverse .workflow-layout {
-    grid-template-columns: 62% 38%;
+    grid-template-columns: 1fr 1fr;
 }
 
 .workflow-reverse .workflow-image {
@@ -56,14 +56,6 @@
 
 .workflow img[src*="DisplayMode"] {
     max-width: 760px;
-}
-
-.attendance-screenshot {
-    width: 500px;
-}
-
-.session-profiles-screenshot {
-    max-width: 470px;
 }
 
 @media (max-width:900px){
