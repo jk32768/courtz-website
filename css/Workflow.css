@@ -56,39 +56,45 @@
     max-width: 760px;
 }
 
-@media (max-width:900px){
+@media (max-width: 900px) {
 
-    .workflow-layout{
-        grid-template-columns:1fr;
-        gap:2rem;
+    .workflow-layout {
+        grid-template-columns: 1fr;
+        gap: 2rem;
     }
 
-    .workflow-text{
-        order:1;
-        padding-top:0;
+    .workflow-image {
+        order: 1;
     }
 
-    .workflow-image{
-        order:2;
+    .workflow-text {
+        order: 2;
+        padding-top: 0;
     }
 
 }
+
+
 .session-profiles-screenshot {
-    width: 487px;
-    height: 185px;
+    width: 443px;
+    max-width: 100%;
+    height: auto;
 }
 
 .attendance-screenshot {
-    width: 312px;
-    height: 517px;
+    width: 284px;
+    max-width: 100%;
+    height: auto;
 }
 
 .match-generation-screenshot {
-    width: 1035px;
-    height: 352px;
+    width: 941px;
+    max-width: 100%;
+    height: auto;
 }
 
 .display-mode-screenshot {
-    width: 1038px;
-    height: 563px;
+    width: 944px;
+    max-width: 100%;
+    height: auto;
 }
