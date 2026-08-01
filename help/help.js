@@ -16,7 +16,7 @@ try {
     console.log(marked.parse("# Test"));
 
     content.innerHTML = `
-        <section class="help-content">
+        <section class="container help-content">
             ${marked.parse(markdown)}
         </section>
     `;
