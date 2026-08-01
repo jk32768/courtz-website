@@ -19,10 +19,10 @@ async function loadPage() {
         `;
 
     }
-    catch {
-
         console.log(JSON.stringify(markdown.substring(0, 30)));
 	console.log(marked.parse("# Test"));
+    catch {
+
 	content.innerHTML = `
             <section class="help-content">
                 <h1>Help</h1>
