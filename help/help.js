@@ -11,7 +11,8 @@ async function loadPage() {
         const response = await fetch(`${page}.md`);
 
         const markdown = await response.text();
-
+        console.log(JSON.stringify(markdown.substring(0, 30)));
+	console.log(marked.parse("# Test"));
         content.innerHTML = `
             <section class="help-content">
                 ${marked.parse(markdown)}
@@ -19,8 +20,7 @@ async function loadPage() {
         `;
 
     }
-        console.log(JSON.stringify(markdown.substring(0, 30)));
-	console.log(marked.parse("# Test"));
+
     catch {
 
 	content.innerHTML = `
