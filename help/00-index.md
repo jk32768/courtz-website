@@ -1,4 +1,4 @@
-\# CourtZ Help
+# CourtZ Help
 
 
 
@@ -10,45 +10,45 @@ Whether you're using CourtZ for the first time or looking up a specific feature,
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
-\- \[Getting Started](01-getting-started.md)
+- [Getting Started](01-getting-started.md)
 
 
 
-\## Managing Your Session
+## Managing Your Session
 
 
 
-\- \[Players](02-players.md)
+- [Players](02-players.md)
 
-\- \[Session Profiles](03-session-profiles.md)
+- [Session Profiles](03-session-profiles.md)
 
-\- \[Running a Session](04-running-a-session.md)
+- [Running a Session](04-running-a-session.md)
 
-\- \[Game Generation](05-game-generation.md)
+- [Game Generation](05-game-generation.md)
 
-\- \[Display Games](06-display-games.md)
+- [Display Games](06-display-games.md)
 
-\- \[Countdown Timer](07-countdown-timer.md)
-
-
-
-\## Application Settings
+- [Countdown Timer](07-countdown-timer.md)
 
 
 
-\- \[Options](08-options.md)
-
-\- \[Configuration](09-configuration.md)
+## Application Settings
 
 
 
-\## Reference
+- [Options](08-options.md)
+
+- [Configuration](09-configuration.md)
 
 
 
-\- \[Glossary](10-glossary.md)
+## Reference
+
+
+
+- [Glossary](10-glossary.md)
 
