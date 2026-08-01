@@ -6,30 +6,31 @@ async function loadPage() {
 
     const page = params.get("page") ?? "00-index";
 
-    try {
+try {
 
-        const response = await fetch(`${page}.md`);
+    const response = await fetch(`${page}.md`);
 
-        const markdown = await response.text();
-        console.log(JSON.stringify(markdown.substring(0, 30)));
-	console.log(marked.parse("# Test"));
-        content.innerHTML = `
-            <section class="help-content">
-                ${marked.parse(markdown)}
-            </section>
-        `;
+    const markdown = await response.text();
 
-    }
+    console.log(JSON.stringify(markdown.substring(0, 30)));
+    console.log(marked.parse("# Test"));
 
-    catch {
+    content.innerHTML = `
+        <section class="help-content">
+            ${marked.parse(markdown)}
+        </section>
+    `;
 
-	content.innerHTML = `
-            <section class="help-content">
-                <h1>Help</h1>
-                <p>Sorry, this help page could not be found.</p>
-            </section>
-        `;
-    }
+}
+catch {
+
+    content.innerHTML = `
+        <section class="help-content">
+            <h1>Help</h1>
+            <p>Sorry, this help page could not be found.</p>
+        </section>
+    `;
+}
 }
 
 loadPage();
