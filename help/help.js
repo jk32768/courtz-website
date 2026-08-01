@@ -21,7 +21,9 @@ async function loadPage() {
     }
     catch {
 
-        content.innerHTML = `
+        console.log(JSON.stringify(markdown.substring(0, 30)));
+	console.log(marked.parse("# Test"));
+	content.innerHTML = `
             <section class="help-content">
                 <h1>Help</h1>
                 <p>Sorry, this help page could not be found.</p>
