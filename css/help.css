@@ -1,0 +1,54 @@
+/* ==========================================================
+   CourtZ Help
+   ========================================================== */
+
+.help-content{
+    max-width:900px;
+    margin:4rem auto;
+    padding:0 1rem;
+}
+
+.help-content h1{
+    font-size:2.5rem;
+    margin-bottom:1rem;
+}
+
+.help-content h2{
+    margin-top:3rem;
+    color:#0f2d52;
+}
+
+.help-content h3{
+    margin-top:2rem;
+}
+
+.help-content p,
+.help-content li{
+    font-size:1.05rem;
+}
+
+.help-content ul{
+    margin:1rem 0 1rem 1.5rem;
+    list-style:disc;
+}
+
+.help-navigation{
+    margin-top:4rem;
+    padding-top:2rem;
+    border-top:1px solid #dbe4ee;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:1rem;
+}
+
+.help-navigation a{
+    color:#0f2d52;
+    font-weight:600;
+}
+
+.help-navigation a:hover{
+    color:#1d4ed8;
+}
