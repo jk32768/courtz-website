@@ -1,4 +1,4 @@
-\# Countdown Timer
+# Countdown Timer
 
 
 
@@ -10,11 +10,11 @@ The timer counts down the game duration for each round. When the time expires, a
 
 
 
-\---
+---
 
 
 
-\## Starting the Timer
+## Starting the Timer
 
 
 
@@ -26,11 +26,11 @@ The timer uses the game duration defined for the current session.
 
 
 
-\---
+---
 
 
 
-\## Changing the Game Duration
+## Changing the Game Duration
 
 
 
@@ -46,11 +46,11 @@ Changing the timer duration does not alter the Session Profile. The original dur
 
 
 
-\---
+---
 
 
 
-\## When Time Expires
+## When Time Expires
 
 
 
@@ -66,11 +66,11 @@ The timer is optional. If your games finish before the timer expires, simply gen
 
 
 
-\---
+---
 
 
 
-\## What's Next?
+## What's Next?
 
 
 
@@ -78,9 +78,9 @@ Continue to \*\*Options\*\* to learn about the settings available during a sessi
 
 
 
-\---
+---
 
 
 
-← \[Display Games](06-display-games.md) | \[🏠 Help Home](00-index.md) | \[Options →](08-options.md)
+← [Display Games](06-display-games.md) | [🏠 Help Home](00-index.md) | [Options →](08-options.md)
 

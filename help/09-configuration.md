@@ -1,4 +1,4 @@
-\# Configuration
+# Configuration
 
 
 
@@ -14,11 +14,11 @@ This includes:
 
 
 
-\- the master player list
+- the master player list
 
-\- all Session Profiles
+- all Session Profiles
 
-\- application settings
+- application settings
 
 
 
@@ -26,11 +26,11 @@ Configurations can be shared with other organisers or imported onto another devi
 
 
 
-\---
+---
 
 
 
-\## Sharing a Configuration
+## Sharing a Configuration
 
 
 
@@ -46,11 +46,11 @@ This is useful when:
 
 
 
-\- another organiser needs to run a session in your absence
+- another organiser needs to run a session in your absence
 
-\- setting up CourtZ on a new device
+- setting up CourtZ on a new device
 
-\- keeping multiple organisers using the same players and Session Profiles
+- keeping multiple organisers using the same players and Session Profiles
 
 
 
@@ -58,19 +58,19 @@ The exported configuration includes:
 
 
 
-\- all players
+- all players
 
-\- all Session Profiles
+- all Session Profiles
 
-\- application settings
-
-
-
-\---
+- application settings
 
 
 
-\## Importing a Configuration
+---
+
+
+
+## Importing a Configuration
 
 
 
@@ -86,19 +86,19 @@ This is useful when:
 
 
 
-\- restoring a previously shared configuration
+- restoring a previously shared configuration
 
-\- setting up CourtZ on another device
+- setting up CourtZ on another device
 
-\- taking over from another organiser
-
-
-
-\---
+- taking over from another organiser
 
 
 
-\## Working with Multiple Organisers
+---
+
+
+
+## Working with Multiple Organisers
 
 
 
@@ -114,11 +114,11 @@ This helps ensure everyone is using the same player list, Session Profiles and a
 
 
 
-\---
+---
 
 
 
-\## What's Next?
+## What's Next?
 
 
 
@@ -126,9 +126,9 @@ Continue to \*\*Glossary\*\* for explanations of the terms used throughout Court
 
 
 
-\---
+---
 
 
 
-← \[Options](08-options.md) | \[🏠 Help Home](00-index.md) | \[Glossary →](10-glossary.md)
+← [Options](08-options.md) | [🏠 Help Home](00-index.md) | [Glossary →](10-glossary.md)
 

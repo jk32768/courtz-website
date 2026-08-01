@@ -1,4 +1,4 @@
-\# Options
+# Options
 
 
 
@@ -14,11 +14,11 @@ Changes made using Options affect future games generated during the current sess
 
 
 
-\---
+---
 
 
 
-\## Opening Options
+## Opening Options
 
 
 
@@ -30,11 +30,11 @@ The Options dialog allows you to change the settings used when generating subseq
 
 
 
-\---
+---
 
 
 
-\## Available Options
+## Available Options
 
 
 
@@ -42,15 +42,15 @@ Depending on your session, you can override settings such as:
 
 
 
-\- game duration
+- game duration
 
-\- game mode
+- game mode
 
-\- number of courts
+- number of courts
 
-\- singles or doubles
+- singles or doubles
 
-\- mixed games preferences
+- mixed games preferences
 
 
 
@@ -58,11 +58,11 @@ The updated settings are used the next time \*\*New Game\*\* is selected.
 
 
 
-\---
+---
 
 
 
-\## Temporary Changes
+## Temporary Changes
 
 
 
@@ -74,11 +74,11 @@ For example, you might:
 
 
 
-\- reduce the number of courts if one becomes unavailable
+- reduce the number of courts if one becomes unavailable
 
-\- shorten game duration towards the end of the session
+- shorten game duration towards the end of the session
 
-\- change the game mode to suit the remaining players
+- change the game mode to suit the remaining players
 
 
 
@@ -94,11 +94,11 @@ The next time the Session Profile is started, its original settings are used.
 
 
 
-\---
+---
 
 
 
-\## Permanent Changes
+## Permanent Changes
 
 
 
@@ -110,11 +110,11 @@ Changes made to a Session Profile are used every time that profile is started.
 
 
 
-\---
+---
 
 
 
-\## About
+## About
 
 
 
@@ -126,19 +126,19 @@ The About dialog displays:
 
 
 
-\- CourtZ version
+- CourtZ version
 
-\- Club name
+- Club name
 
-\- Email address
+- Email address
 
-\- licence status
+- licence status
 
-\- licence type
+- licence type
 
-\- issue date (licensed copies)
+- issue date (licensed copies)
 
-\- expiry date (where applicable)
+- expiry date (where applicable)
 
 
 
@@ -150,7 +150,7 @@ The About dialog also provides access to the CourtZ website.
 
 
 
-\## What's Next?
+## What's Next?
 
 
 
@@ -158,9 +158,9 @@ Continue to \*\*Configuration\*\* to learn about the application settings.
 
 
 
-\---
+---
 
 
 
-← \[Countdown Timer](07-countdown-timer.md) | \[🏠 Help Home](00-index.md) | \[Configuration →](09-configuration.md)
+← [Countdown Timer](07-countdown-timer.md) | [🏠 Help Home](00-index.md) | [Configuration →](09-configuration.md)
 

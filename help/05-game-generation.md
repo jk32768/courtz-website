@@ -1,4 +1,4 @@
-\# Game Generation
+# Game Generation
 
 
 
@@ -10,11 +10,11 @@ The first round of games is generated automatically when a session starts. After
 
 
 
-\---
+---
 
 
 
-\## The First Game
+## The First Game
 
 
 
@@ -34,11 +34,11 @@ If you are using the optional Countdown Timer, start it before play begins. An a
 
 
 
-\---
+---
 
 
 
-\## Starting the Next Game
+## Starting the Next Game
 
 
 
@@ -50,11 +50,11 @@ CourtZ automatically:
 
 
 
-\- selects the players for the next round
+- selects the players for the next round
 
-\- allocates players to courts
+- allocates players to courts
 
-\- updates the Waiting Room
+- updates the Waiting Room
 
 
 
@@ -70,11 +70,11 @@ Repeat this process until the session has finished.
 
 
 
-\---
+---
 
 
 
-\## How Game Generation Works
+## How Game Generation Works
 
 
 
@@ -86,15 +86,15 @@ Depending on those settings, CourtZ may consider factors such as:
 
 
 
-\- player Skill Levels
+- player Skill Levels
 
-\- previous partnerships
+- previous partnerships
 
-\- previous opponents
+- previous opponents
 
-\- mixed games preferences
+- mixed games preferences
 
-\- player waiting time
+- player waiting time
 
 
 
@@ -102,11 +102,11 @@ The aim is to produce enjoyable, balanced games while giving everyone a fair opp
 
 
 
-\---
+---
 
 
 
-\## The Waiting Room
+## The Waiting Room
 
 
 
@@ -122,11 +122,11 @@ If there are more players than available court spaces, some players will remain 
 
 
 
-\---
+---
 
 
 
-\## Players Joining or Leaving
+## Players Joining or Leaving
 
 
 
@@ -138,9 +138,9 @@ For example, you can:
 
 
 
-\- add a late-arriving player to the Waiting Room
+- add a late-arriving player to the Waiting Room
 
-\- remove a player who leaves early
+- remove a player who leaves early
 
 
 
@@ -148,11 +148,11 @@ The updated player list is used the next time a new round of games is generated.
 
 
 
-\---
+---
 
 
 
-\## Saving a Session Profile
+## Saving a Session Profile
 
 
 
@@ -168,9 +168,9 @@ You can:
 
 
 
-\- create a new Session Profile, or
+- create a new Session Profile, or
 
-\- overwrite an existing Session Profile
+- overwrite an existing Session Profile
 
 
 
@@ -178,9 +178,9 @@ The Session Profile stores:
 
 
 
-\- the selected players
+- the selected players
 
-\- the current game settings
+- the current game settings
 
 
 
@@ -188,11 +188,11 @@ You can use the saved Session Profile to start future sessions without recreatin
 
 
 
-\---
+---
 
 
 
-\## What's Next?
+## What's Next?
 
 
 
@@ -204,9 +204,9 @@ Continue to \*\*Display Games\*\* to learn how to present court allocations to p
 
 
 
-\---
+---
 
 
 
-← \[Running a Session](04-running-a-session.md) | \[🏠 Help Home](00-index.md) | \[Display Games →](06-display-games.md)
+← [Running a Session](04-running-a-session.md) | [🏠 Help Home](00-index.md) | [Display Games →](06-display-games.md)
 

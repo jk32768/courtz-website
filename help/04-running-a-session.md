@@ -1,4 +1,4 @@
-\# Running a Session
+# Running a Session
 
 
 
@@ -10,9 +10,9 @@ You can start a session in one of two ways:
 
 
 
-\- Using a Session Profile
+- Using a Session Profile
 
-\- Without a Session Profile
+- Without a Session Profile
 
 
 
@@ -20,11 +20,11 @@ Once the session has started, both workflows operate in the same way.
 
 
 
-\---
+---
 
 
 
-\## Starting with a Session Profile
+## Starting with a Session Profile
 
 
 
@@ -36,9 +36,9 @@ Each Session Profile already contains:
 
 
 
-\- the players who normally attend
+- the players who normally attend
 
-\- the game settings for the session
+- the game settings for the session
 
 
 
@@ -54,13 +54,13 @@ Use the Attendance dialog to prepare today's session by:
 
 
 
-\- selecting the regular players who are attending
+- selecting the regular players who are attending
 
-\- clearing players who are absent
+- clearing players who are absent
 
-\- adding players from the master player list
+- adding players from the master player list
 
-\- adding guest players
+- adding guest players
 
 
 
@@ -72,7 +72,7 @@ CourtZ creates today's session and allocates players to the available courts. If
 
 
 
-\### Guest Players
+### Guest Players
 
 
 
@@ -84,9 +84,9 @@ If they are likely to play again, you can also:
 
 
 
-\- add them to the master player list
+- add them to the master player list
 
-\- add them to the current Session Profile
+- add them to the current Session Profile
 
 
 
@@ -94,11 +94,11 @@ This allows them to be included automatically in future sessions that use this S
 
 
 
-\---
+---
 
 
 
-\## Starting without a Session Profile
+## Starting without a Session Profile
 
 
 
@@ -110,9 +110,9 @@ Choose the required game settings, then add players to the Waiting Room from:
 
 
 
-\- the master player list
+- the master player list
 
-\- guest players
+- guest players
 
 
 
@@ -124,7 +124,7 @@ CourtZ creates today's session and allocates players to the available courts. If
 
 
 
-\### Guest Players
+### Guest Players
 
 
 
@@ -136,11 +136,11 @@ If they become regular players, you can add them to the master player list so th
 
 
 
-\---
+---
 
 
 
-\## The Waiting Room
+## The Waiting Room
 
 
 
@@ -152,11 +152,11 @@ Players are placed in the Waiting Room automatically when:
 
 
 
-\- there are more players than available court spaces
+- there are more players than available court spaces
 
-\- they are waiting for their next game
+- they are waiting for their next game
 
-\- they are added after the session has started
+- they are added after the session has started
 
 
 
@@ -164,11 +164,11 @@ CourtZ uses the Waiting Room when generating subsequent games.
 
 
 
-\---
+---
 
 
 
-\## What's Next?
+## What's Next?
 
 
 
@@ -180,9 +180,9 @@ Continue to \*\*Game Generation\*\* to learn how CourtZ generates games, rotates
 
 
 
-\---
+---
 
 
 
-← \[Session Profiles](03-session-profiles.md) | \[🏠 Help Home](00-index.md) | \[Game Generation →](05-game-generation.md)
+← [Session Profiles](03-session-profiles.md) | [🏠 Help Home](00-index.md) | [Game Generation →](05-game-generation.md)
 

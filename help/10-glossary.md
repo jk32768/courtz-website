@@ -1,4 +1,4 @@
-\## Session
+## Session
 
 
 
@@ -6,11 +6,11 @@ A series of games played by a group of players. During a session, CourtZ generat
 
 
 
-\---
+---
 
 
 
-\## Session Profile
+## Session Profile
 
 
 
@@ -22,11 +22,11 @@ Session Profiles make it easy to recreate regular sessions.
 
 
 
-\---
+---
 
 
 
-\## Session Settings
+## Session Settings
 
 
 
@@ -38,11 +38,11 @@ A session normally starts with the settings defined by the selected Session Prof
 
 
 
-\---
+---
 
 
 
-\## Skill Level
+## Skill Level
 
 
 
@@ -58,11 +58,11 @@ Skill Levels are colour coded throughout the application:
 
 
 
-\- \*\*Green\*\* represents lower Skill Levels.
+- \*\*Green\*\* represents lower Skill Levels.
 
-\- \*\*Blue\*\* represents average Skill Levels.
+- \*\*Blue\*\* represents average Skill Levels.
 
-\- \*\*Red\*\* represents higher Skill Levels.
+- \*\*Red\*\* represents higher Skill Levels.
 
 
 
@@ -70,11 +70,11 @@ Intermediate Skill Levels are shown using shades between these colours.
 
 
 
-\---
+---
 
 
 
-\## Waiting Room
+## Waiting Room
 
 
 
@@ -86,9 +86,9 @@ CourtZ automatically moves players between the Waiting Room and the courts as ne
 
 
 
-\---
+---
 
 
 
-← \[Configuration](09-configuration.md) | \[🏠 Help Home](00-index.md)
+← [Configuration](09-configuration.md) | [🏠 Help Home](00-index.md)
 

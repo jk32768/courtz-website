@@ -1,4 +1,4 @@
-\# Players
+# Players
 
 
 
@@ -18,11 +18,11 @@ If you're organising a one-off session, you can also add guest players directly 
 
 
 
-\---
+---
 
 
 
-\## Creating a Player
+## Creating a Player
 
 
 
@@ -48,11 +48,11 @@ The player is now available for future sessions.
 
 
 
-\---
+---
 
 
 
-\## Skill Levels
+## Skill Levels
 
 
 
@@ -60,9 +60,9 @@ Each player has a Skill Level between \*\*0\*\* and \*\*10\*\*.
 
 
 
-\- \*\*0\*\* represents a beginner.
+- \*\*0\*\* represents a beginner.
 
-\- \*\*10\*\* represents an expert player.
+- \*\*10\*\* represents an expert player.
 
 
 
@@ -74,11 +74,11 @@ As players improve, you can update their Skill Level at any time.
 
 
 
-\---
+---
 
 
 
-\## Editing Players
+## Editing Players
 
 
 
@@ -90,11 +90,11 @@ Typical reasons for editing a player include:
 
 
 
-\- correcting a name
+- correcting a name
 
-\- changing a Skill Level
+- changing a Skill Level
 
-\- updating other player information
+- updating other player information
 
 
 
@@ -102,11 +102,11 @@ Changes are used in future sessions immediately.
 
 
 
-\---
+---
 
 
 
-\## Deleting Players
+## Deleting Players
 
 
 
@@ -118,11 +118,11 @@ If the player belongs to one or more Session Profiles, CourtZ will update those 
 
 
 
-\---
+---
 
 
 
-\## Guest Players
+## Guest Players
 # Players
 
 The Players page contains the master player list used by CourtZ.
@@ -235,17 +235,17 @@ At the end of the session you can either:
 
 
 
-\- discard the guest player, or
+- discard the guest player, or
 
-\- save them to the master player list for future sessions.
-
-
-
-\---
+- save them to the master player list for future sessions.
 
 
 
-\## Tips
+---
+
+
+
+## Tips
 
 
 
@@ -253,19 +253,19 @@ At the end of the session you can either:
 
 
 
-\---
+---
 
 
 
-\## Related Topics
+## Related Topics
 
 
 
-\- Session Profiles
+- Session Profiles
 
-\- Running a Session
+- Running a Session
 
-\- Game Generation
+- Game Generation
 
 ---
 

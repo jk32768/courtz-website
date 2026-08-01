@@ -1,4 +1,4 @@
-\# Getting Started
+# Getting Started
 
 
 
@@ -14,7 +14,7 @@ Whether you're organising a one-off session with friends or running a regular cl
 
 
 
-\## Free Trial
+## Free Trial
 
 
 
@@ -30,7 +30,7 @@ When you purchase CourtZ, you can activate your licence at any time from \*\*Abo
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
@@ -38,7 +38,7 @@ CourtZ can be used in two ways.
 
 
 
-\### Using Session Profiles (Recommended)
+### Using Session Profiles (Recommended)
 
 
 
@@ -58,7 +58,7 @@ Continue to \*\*Players\*\* to begin.
 
 
 
-\### Without a Session Profile
+### Without a Session Profile
 
 
 
@@ -70,9 +70,9 @@ Players can be:
 
 
 
-\- existing players from your master player list
+- existing players from your master player list
 
-\- guest players created for the current session
+- guest players created for the current session
 
 
 
@@ -84,7 +84,7 @@ Continue to \*\*Running a Session\*\* to learn more.
 
 
 
-\## Which approach should I choose?
+## Which approach should I choose?
 
 
 
@@ -96,9 +96,9 @@ If you're organising an occasional session, you can work directly from the Waiti
 
 
 
-\---
+---
 
 
 
-\[🏠 Help Home](00-index.md) | \[Players →](02-players.md)
+[🏠 Help Home](00-index.md) | [Players →](02-players.md)
 

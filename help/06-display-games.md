@@ -1,4 +1,4 @@
-\# Display Games
+# Display Games
 
 
 
@@ -10,11 +10,11 @@ The Display Games page is designed for players. It presents the current court al
 
 
 
-\---
+---
 
 
 
-\## Viewing the Games
+## Viewing the Games
 
 
 
@@ -30,11 +30,11 @@ Whenever a new round of games is generated, the display updates automatically.
 
 
 
-\---
+---
 
 
 
-\## Using Display Games
+## Using Display Games
 
 
 
@@ -46,11 +46,11 @@ The larger court displays are easier to read from a distance and work well on la
 
 
 
-\---
+---
 
 
 
-\## Player Skill Badges
+## Player Skill Badges
 
 
 
@@ -62,11 +62,11 @@ Player skill levels are still used by CourtZ when generating balanced games, but
 
 
 
-\---
+---
 
 
 
-\## What's Next?
+## What's Next?
 
 
 
@@ -74,9 +74,9 @@ Continue to \*\*Countdown Timer\*\* to learn how to use the optional game timer 
 
 
 
-\---
+---
 
 
 
-← \[Game Generation](05-game-generation.md) | \[🏠 Help Home](00-index.md) | \[Countdown Timer →](07-countdown-timer.md)
+← [Game Generation](05-game-generation.md) | [🏠 Help Home](00-index.md) | [Countdown Timer →](07-countdown-timer.md)
 
