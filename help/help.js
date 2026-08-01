@@ -6,31 +6,37 @@ async function loadPage() {
 
     const page = params.get("page") ?? "00-index";
 
-try {
+    try {
 
-    const response = await fetch(`${page}.md`);
+        const response = await fetch(`${page}.md`);
 
-    const markdown = await response.text();
+        const markdown = await response.text();
 
-    console.log(JSON.stringify(markdown.substring(0, 30)));
-    console.log(marked.parse("# Test"));
+        let html = marked.parse(markdown);
 
-    content.innerHTML = `
+        // Rewrite links to stay inside the help system
+        html = html.replace(
+            /href="([^"]+)\.md"/g,
+            'href="index.html?page=$1"'
+        );
+
+        content.innerHTML = `
         <section class="container help-content">
-            ${marked.parse(markdown)}
+            ${html}
         </section>
     `;
 
-}
-catch {
+    }
+    catch {
 
-    content.innerHTML = `
-        <section class="help-content">
+        content.innerHTML = `
+        <section class="container help-content">
             <h1>Help</h1>
             <p>Sorry, this help page could not be found.</p>
         </section>
     `;
-}
+
+    }
 }
 
 loadPage();
