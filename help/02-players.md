@@ -8,11 +8,11 @@ Because there is only one record for each player, changes such as updating a pla
 
 If you're organising a one-off session, you can also add guest players directly to a session without adding them to the master player list.
 
-!\[Players page](images/players-page.png)
+![Players page](images/players-page.png)
 
 *The Players page showing separate male and female player lists, searchable player records and colour-coded Skill Levels.*
 
-\---
+---
 
 ## Creating a Player
 
@@ -27,7 +27,7 @@ To add a player:
 
 The player is now available for use in any Session Profile or session.
 
-\---
+---
 
 ## Skill Levels
 
@@ -46,7 +46,7 @@ Player cards are colour-coded to provide a quick visual indication of ability:
 * 🔵 Intermediate
 * 🔴 Expert
 
-\---
+---
 
 ## Editing Players
 
@@ -60,7 +60,7 @@ Typical reasons for editing a player include:
 
 Because Session Profiles refer to the master player list, any changes you make are automatically available wherever that player is used.
 
-\---
+---
 
 ## Deleting Players
 
@@ -68,7 +68,7 @@ Players who no longer attend can be removed from the master player list.
 
 If a player belongs to one or more Session Profiles, CourtZ automatically updates those profiles.
 
-\---
+---
 
 ## Guest Players
 
@@ -83,7 +83,7 @@ At the end of the session you can choose to:
 
 If the guest becomes a regular player, you can also add them to the current Session Profile.
 
-\---
+---
 
 ## Additional Options
 
@@ -93,13 +93,13 @@ Select **Options** (⋮) to access additional actions for the Players page.
 
 Use this option with care, as it cannot be undone.
 
-\---
+---
 
 ## Tips
 
-> \*\*Tip:\*\* Don't worry about assigning perfect Skill Levels. They are intended as a guide for game generation and can be adjusted over time as players improve or as you become more familiar with their playing ability.
+> **Tip:** Don't worry about assigning perfect Skill Levels. They are intended as a guide for game generation and can be adjusted over time as players improve or as you become more familiar with their playing ability.
 
-\---
+---
 
 ## Related Topics
 
@@ -107,7 +107,7 @@ Use this option with care, as it cannot be undone.
 * [Running a Session](04-running-a-session.md)
 * [Game Generation](05-game-generation.md)
 
-\---
+---
 
 ← [Getting Started](01-getting-started.md) | [🏠 Help Home](00-index.md) | [Session Profiles →](03-session-profiles.md)
 
