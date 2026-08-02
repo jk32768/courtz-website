@@ -1,0 +1,7 @@
+*.vsidx
+*.db
+.vs/courtz-website/CopilotIndices/18.8.1096.64007/CodeChunks.db-shm
+.vs/courtz-website/CopilotIndices/18.8.1096.64007/CodeChunks.db-wal
+.vs/courtz-website/CopilotIndices/18.8.1096.64007/SemanticSymbols.db-shm
+.vs/courtz-website/CopilotIndices/18.8.1096.64007/SemanticSymbols.db-wal
+.vs/slnx.sqlite
