@@ -82,11 +82,9 @@ To delete a player:
 
 <img src="images/delete-player.png"
      alt="Delete player"
-     width="114">
+     width="140">
 
-*Tap and hold a player's name to reveal the Delete icon. The icon disappears after 3 seconds if it is not selected.*
-
-If the Delete icon is not selected within 3 seconds, it disappears and the player is not deleted.
+*Tap and hold a player's name to reveal the Delete icon. If it is not selected within 3 seconds, it disappears.*
 
 If the player belongs to one or more Session Profiles, CourtZ automatically removes the player from those profiles.
 
