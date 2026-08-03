@@ -50,8 +50,9 @@ These include:
 - **Number of courts** – the number of courts available for play.
 - **Format** – whether games are generated as Singles or Doubles.
 - **Team Skills** – determines how CourtZ balances player abilities when generating games.
-- **Balanced** attempts to make both teams equally matched by keeping the total Skill Levels of each team as close as possible.
-- **Competitive** attempts to group players of similar Skill Levels together, creating games where all players are of a comparable standard.- **Mixed Games** – whether CourtZ should prefer mixed-gender games when suitable players are available.
+    - **Balanced** attempts to make both teams equally matched by keeping the total Skill Levels of each team as close as possible.
+    - **Competitive** attempts to group players of similar Skill Levels together, creating games where all players are of a comparable standard.
+- **Mixed Games** – whether CourtZ should prefer mixed-gender games when suitable players are available.
 - **Game Duration** – the target length of each game before the next round is generated.
 
 These settings are used automatically whenever the Session Profile is started.
@@ -85,7 +86,7 @@ Select the Attendance button to open the Attendance dialog. Select the players e
 
 <img src="images/attendance-popup.png"
      alt="Attendance popup"
-     width="520">
+     width="400">
 
 *The Attendance dialog is used to select the players expected to attend the session. Greyed-out players are currently marked as absent.*
 
