@@ -83,6 +83,14 @@ Each Session Profile displays an Attendance indicator showing the number of play
 
 Select the Attendance button to open the Attendance dialog. Select the players expected to attend, then save the attendance.
 
+<img src="images/attendance-popup.png"
+     alt="Attendance popup"
+     width="520">
+
+*The Attendance dialog is used to select the players expected to attend the session. Greyed-out players are currently marked as absent.*
+
+Use Select All or Clear All to quickly mark every player as attending or absent before making individual changes.
+
 The attendance list can be updated whenever players confirm or cancel before the session begins.
 
 ---
