@@ -72,24 +72,23 @@ Because Session Profiles refer to the master player list, any changes you make a
 
 ## Deleting Players
 
-Players who no longer attend can be removed from the master player list.
+To help prevent accidental deletion, players are deleted using a two-step process.
 
-If a player belongs to one or more Session Profiles, CourtZ automatically updates those profiles.
+To delete a player:
 
----
+1. Tap and hold the player's name.
+2. A red **Delete** icon appears within the player label.
+3. Tap the red **Delete** icon within **3 seconds**.
 
-## Guest Players
+<img src="images/delete-player.png"
+     alt="Delete player"
+     width="114">
 
-Guest players can be added while running a session without first adding them to the master player list.
+*Tap and hold a player's name to reveal the Delete icon. The icon disappears after 3 seconds if it is not selected.*
 
-They are intended for visitors or occasional players who are not regular members of your club.
+If the Delete icon is not selected within 3 seconds, it disappears and the player is not deleted.
 
-At the end of the session you can choose to:
-
-* discard the guest player, or
-* save them to the master player list for future sessions.
-
-If the guest becomes a regular player, you can also add them to the current Session Profile.
+If the player belongs to one or more Session Profiles, CourtZ automatically removes the player from those profiles.
 
 ---
 
