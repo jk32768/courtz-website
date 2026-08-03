@@ -8,7 +8,9 @@ Because there is only one record for each player, changes such as updating a pla
 
 If you're organising a one-off session, you can also add guest players directly to a session without adding them to the master player list.
 
-![Players page](images/players-page.png)
+<img src="images/players-page.png"
+     alt="Players page"
+     width="900">
 
 *The Players page showing separate male and female player lists, searchable player records and colour-coded Skill Levels.*
 
@@ -25,7 +27,9 @@ To add a player:
 5. Set the player's Skill Level.
 6. Select **Add** to save the player.
 
-![New Player dialog](images/add-player.png)
+<img src="images/add-player.png"
+     alt="New Player dialog"
+     width="276">
 
 *The New Player dialog is used to enter the player's name, select their gender and assign an initial Skill Level.*
 
