@@ -1,6 +1,6 @@
 # Session Profiles
 
-Session Profiles are templates for your regular playing sessions.
+Session Profiles define your regular playing sessions.
 
 A Session Profile stores:
 
@@ -11,6 +11,12 @@ A Session Profile stores:
 It does not store copies of player information. Instead, it refers to players in the master player list.
 
 This means that if you update a player's name or Skill Level on the **Players** page, every Session Profile using that player automatically uses the updated information.
+
+<img src="images/sessions-page.png"
+     alt="Session Profiles page"
+     width="900">
+
+*The Session Profiles page showing the available Session Profiles and the number of players assigned to each profile.*
 
 ---
 
@@ -24,6 +30,12 @@ To create a Session Profile:
 4. Select the regular players.
 5. Choose the game settings.
 6. Save the Session Profile.
+
+<img src="images/edit-session-profile.png"
+     alt="Session Profile editor"
+     width="700">
+
+*The Session Profile editor is used to define the regular players and default game settings for a session.*
 
 The Session Profile is now available whenever you start a new session.
 
