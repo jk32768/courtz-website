@@ -1,6 +1,6 @@
 # Session Profiles
 
-Session Profiles define your regular playing sessions.
+Session Profiles define your regular playing sessions, allowing CourtZ to remember the players and game settings used each time the session is run.
 
 A Session Profile stores:
 
@@ -43,33 +43,35 @@ The Session Profile is now available whenever you start a new session.
 
 ## Session Settings
 
-Each Session Profile defines the default settings for a session.
+Each Session Profile stores the default settings used whenever a new session is started.
 
 These include:
 
-- game mode
-- singles or doubles
-- number of courts
-- game duration
-- mixed games preferences
+- **Number of courts** – the number of courts available for play.
+- **Format** – whether games are generated as Singles or Doubles.
+- **Team Skills** – determines how CourtZ balances player abilities when generating games.
+- **Balanced** attempts to make both teams equally matched by keeping the total Skill Levels of each team as close as possible.
+- **Competitive** attempts to group players of similar Skill Levels together, creating games where all players are of a comparable standard.- **Mixed Games** – whether CourtZ should prefer mixed-gender games when suitable players are available.
+- **Game Duration** – the target length of each game before the next round is generated.
 
-These settings are used automatically when the session starts.
+These settings are used automatically whenever the Session Profile is started.
 
-If required, they can be temporarily overridden during a session using **Options**. Temporary changes do not modify the Session Profile.
+If required, they can be temporarily changed during a session using **Options**. Temporary changes affect only the current session and do not modify the Session Profile.
 
 ---
 
 ## Managing Players
 
-Session Profiles refer to players in the master player list.
+Session Profiles contain references to players in the master player list.
 
 You can:
 
 - add players to the Session Profile
 - remove players from the Session Profile
-- change the order of players if required
 
-Editing a player's details is done on the **Players** page, not in the Session Profile.
+Player details such as names and Skill Levels are managed on the **Players** page.
+
+Any changes made to a player's details are automatically reflected in every Session Profile that includes that player.
 
 ---
 
@@ -77,7 +79,7 @@ Editing a player's details is done on the **Players** page, not in the Session P
 
 Attendance can be recorded before arriving at the venue.
 
-Each Session Profile displays an **Attendance** button showing the number of players currently marked as attending and the total number of players in the profile (for example, **15/20**).
+Each Session Profile displays an Attendance indicator showing the number of players currently marked as attending and the total number of players in the profile (for example, **15/20**).
 
 Select the Attendance button to open the Attendance dialog. Select the players expected to attend, then save the attendance.
 
@@ -110,7 +112,7 @@ For example, you might:
 - adjust the game duration
 - change the preferred game mode
 
-Changes are saved in the Session Profile and are used each time it is started.
+Changes are saved immediately and are used the next time the Session Profile is started.
 
 ---
 
@@ -122,11 +124,14 @@ Select **Options** (⋮) to access additional actions for the Session Profiles p
 
 This does not affect the master player list.
 
+Existing player records remain available to create new Session Profiles.
+
 ---
 
 ## Tips
 
 > **Tip:** Create separate Session Profiles for different days, venues or groups of players. Each profile remembers its own players and default game settings.
+
 > **Tip:** Recording attendance before arriving at the venue allows games to be generated immediately when the session starts.
 
 ---
