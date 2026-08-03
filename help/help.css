@@ -54,3 +54,17 @@
         border: 0;
         border-top: 1px solid #e5e7eb;
     }
+
+    .help-content img {
+        display: block;
+        max-width: 900px;
+        width: 100%;
+        height: auto;
+        margin: 2rem auto;
+        border-radius: 8px;
+        box-shadow: 0 6px 20px rgba(0,0,0,.15);
+    }
+
+        .help-content img.dialog {
+            max-width: 520px;
+        }
