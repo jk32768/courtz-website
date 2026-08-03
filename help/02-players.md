@@ -25,6 +25,10 @@ To add a player:
 5. Set the player's Skill Level.
 6. Select **Add** to save the player.
 
+![New Player dialog](images/add-player.png)
+
+*The New Player dialog is used to enter the player's name, select their gender and assign an initial Skill Level.*
+
 The player is now available for use in any Session Profile or session.
 
 ---
