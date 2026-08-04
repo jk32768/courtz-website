@@ -1,134 +1,77 @@
 # Configuration
 
-
-
-Manage your CourtZ configuration.
-
-
-
 A CourtZ configuration contains everything needed to recreate your CourtZ setup on another device.
 
-
-
-This includes:
-
-
+A configuration includes:
 
 - the master player list
-
 - all Session Profiles
-
 - application settings
 
-
-
-Configurations can be shared with other organisers or imported onto another device.
-
-
+Configurations are useful for creating backups, transferring CourtZ to another device or sharing the same setup with other organisers.
 
 ---
-
-
 
 ## Sharing a Configuration
 
+Select **Share Configuration** from the **Options** menu to export your current CourtZ configuration.
 
+The exported configuration can be used to:
 
-Select \*\*Options\*\* (⋮) and choose \*\*Share Configuration\*\*.
+- create a backup
+- transfer CourtZ to another device
+- share your CourtZ setup with another organiser
 
-
-
-Sharing a configuration exports your current CourtZ setup so it can be used by another organiser.
-
-
-
-This is useful when:
-
-
-
-- another organiser needs to run a session in your absence
-
-- setting up CourtZ on a new device
-
-- keeping multiple organisers using the same players and Session Profiles
-
-
-
-The exported configuration includes:
-
-
+The exported configuration contains:
 
 - all players
-
 - all Session Profiles
-
 - application settings
 
-
-
 ---
-
-
 
 ## Importing a Configuration
 
+Select **Import Configuration** from the **Options** menu to restore a previously exported configuration.
 
+Importing a configuration replaces the current CourtZ configuration, including:
 
-Select \*\*Options\*\* (⋮) and choose \*\*Import Configuration\*\*.
+- all players
+- all Session Profiles
+- application settings
 
-
-
-Importing replaces the current CourtZ configuration with the imported configuration.
-
-
-
-This is useful when:
-
-
-
-- restoring a previously shared configuration
-
-- setting up CourtZ on another device
-
-- taking over from another organiser
-
-
+After the import is complete, CourtZ uses the imported configuration immediately.
 
 ---
-
-
 
 ## Working with Multiple Organisers
 
+If more than one organiser manages your club sessions, it is good practice to nominate one person to maintain the master configuration.
 
+When permanent changes are made, such as:
 
-If more than one organiser uses CourtZ, it is good practice to nominate one person to maintain the master configuration.
+- adding or removing players
+- updating Session Profiles
+- changing application settings
 
+the organiser maintaining the master configuration should share an updated configuration with the other organisers.
 
-
-When permanent changes are made, such as adding players or updating Session Profiles, the organiser maintaining the master configuration should share an updated configuration with the other organisers.
-
-
-
-This helps ensure everyone is using the same player list, Session Profiles and application settings.
-
-
+This helps ensure everyone is working with the same players, Session Profiles and application settings.
 
 ---
 
+## Tips
 
+> **Tip:** Regularly export your configuration to create a backup before making significant changes.
+
+> **Tip:** Importing a configuration replaces the existing CourtZ data. If you want to keep your current data, export it first.
+
+---
 
 ## What's Next?
 
-
-
-Continue to \*\*Glossary\*\* for explanations of the terms used throughout CourtZ.
-
-
+Continue to **Glossary** for explanations of the terms used throughout CourtZ.
 
 ---
 
-
-
 ← [Options](08-options.md) | [🏠 Help Home](00-index.md) | [Glossary →](10-glossary.md)
-
