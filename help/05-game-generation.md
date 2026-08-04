@@ -33,6 +33,7 @@ CourtZ automatically:
 - selects the players for the next round
 - allocates players to courts
 - updates the Waiting Room
+- applies any player availability changes
 
 The court and player allocation is calculated automatically using the current session settings. Players cannot be assigned to courts manually.
 
@@ -85,9 +86,28 @@ Players can be added to or removed from a session at any time.
 For example, you can:
 
 - add a late-arriving player to the Waiting Room
-- remove a player who leaves early
+- add a guest player
+- remove a player who leaves the session
 
-The updated player list is used the next time a new round of games is generated.
+Any changes are automatically taken into account the next time the **New Game** (refresh) button is selected.
+
+### Removing a Player from the Waiting Room
+
+To help prevent accidental removal, players are removed from the Waiting Room using a two-step process.
+
+1. Tap and hold the player's name.
+2. A red **Delete** icon appears within the player label.
+3. Tap the red **Delete** icon within **3 seconds** to remove the player from the current session.
+
+<img src="images/delete-player.png"
+     alt="Delete player from Waiting Room"
+     width="220">
+
+*Tap and hold a player in the Waiting Room to reveal the Delete icon. Select it within 3 seconds to remove the player from the current session.*
+
+If the **Delete** icon is not selected within 3 seconds, it disappears and the player remains in the session.
+
+Removing a player from the Waiting Room affects only the current session. The player remains in the master player list and in any Session Profiles to which they belong.
 
 ---
 
@@ -126,32 +146,20 @@ Each tap alternates between these two states, allowing players to take one or mo
 
 ---
 
-## Saving a Session Profile
+## Saving the Current Session
 
-If you start a session without using a Session Profile, or you have adjusted the current session to create a setup you would like to use again, you can save it as a Session Profile.
+If you would like to reuse the current session in the future, select **Save Session** from the **Options** menu.
 
-Select **Options** (⋮), then choose **Save Session Profile**.
-
-You can:
-
-- create a new Session Profile
-- overwrite an existing Session Profile
-
-The Session Profile stores:
-
-- the selected players
-- the current game settings
-
-You can use the saved Session Profile to start future sessions without recreating the same setup.
+This saves the current players and game settings as a Session Profile, allowing the same setup to be used again in future sessions.
 
 ---
 
 ## What's Next?
 
-The current session settings can be changed at any time using **Options**. These changes affect future games generated during the current session only and do not modify the original Session Profile.
+The current session settings can be changed at any time using **Session Settings** from the **Options** menu. These changes affect future games generated during the current session only and do not modify the original Session Profile.
 
-Continue to **Display Games** to learn how to present court allocations to players, or **Countdown Timer** to learn how to use the optional timer.
+Continue to **Games Display** to learn how to present court allocations to players, or **Countdown Timer** to learn how to use the optional timer.
 
 ---
 
-← [Running a Session](04-running-a-session.md) | [🏠 Help Home](00-index.md) | [Display Games →](06-display-games.md)
+← [Running a Session](04-running-a-session.md) | [🏠 Help Home](00-index.md) | [Games Display →](06-display-games.md)

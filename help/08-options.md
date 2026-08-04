@@ -1,166 +1,114 @@
 # Options
 
+The **Options** menu provides access to session settings, session management and application information.
 
+Select **Options** (⋮) from the **Games** page to open the Options menu.
 
-Temporarily change the game generation settings for the current session.
+<img src="images/options-menu.png"
+     alt="Options menu"
+     width="340">
 
-
-
-Session Profiles provide the default settings for a session. Once the session has started, you can temporarily override those settings using \*\*Options\*\*.
-
-
-
-Changes made using Options affect future games generated during the current session. They do not modify the original Session Profile.
-
-
+*The Options menu provides access to session settings, saving sessions, configuration management and application information.*
 
 ---
 
+## Session Settings
 
+Select **Session Settings** to temporarily change the game generation settings for the current session.
 
-## Opening Options
+Session Profiles provide the default settings for a session. Once play has started, you can override those settings using **Session Settings**.
 
-
-
-Select \*\*Options\*\* from the main menu.
-
-
-
-The Options dialog allows you to change the settings used when generating subsequent rounds of games.
-
-
-
----
-
-
-
-## Available Options
-
-
-
-Depending on your session, you can override settings such as:
-
-
-
-- game duration
-
-- game mode
+Depending on your session, you can change settings such as:
 
 - number of courts
-
-- singles or doubles
-
+- game duration
+- Singles or Doubles
+- Team Skills
 - mixed games preferences
 
+The updated settings are used the next time the **New Game** (refresh) button is selected.
 
+These changes affect only the current session. They do not modify the original Session Profile.
 
-The updated settings are used the next time \*\*New Game\*\* is selected.
+<img src="images/session-settings.png"
+     alt="Session Settings"
+     width="600">
 
-
-
----
-
-
-
-## Temporary Changes
-
-
-
-Options are intended for temporary changes during a session.
-
-
-
-For example, you might:
-
-
-
-- reduce the number of courts if one becomes unavailable
-
-- shorten game duration towards the end of the session
-
-- change the game mode to suit the remaining players
-
-
-
-These changes affect future games only.
-
-
-
-When the session ends, the temporary changes are discarded.
-
-
-
-The next time the Session Profile is started, its original settings are used.
-
-
+*Session Settings allows the game generation settings for the current session to be adjusted.*
 
 ---
 
+## Save Session
 
+Select **Save Session** to save the current session as a Session Profile.
 
-## Permanent Changes
+You can:
 
+- create a new Session Profile
+- overwrite an existing Session Profile
 
-
-To make permanent changes, edit the Session Profile instead.
-
-
-
-Changes made to a Session Profile are used every time that profile is started.
-
-
+This is useful if you started a session without using a Session Profile, or if you have adjusted the current session and would like to use the same setup again.
 
 ---
 
+## Import Configuration
 
+Select **Import Configuration** to restore a previously exported CourtZ configuration.
+
+A configuration contains:
+
+- players
+- Session Profiles
+- application settings
+
+Importing a configuration replaces the current CourtZ data.
+
+---
+
+## Share Configuration
+
+Select **Share Configuration** to export the current CourtZ configuration.
+
+The exported configuration can be used to:
+
+- create a backup
+- transfer CourtZ data to another device
+- share a club configuration with another organiser
+
+---
 
 ## About
 
-
-
-Select \*\*About\*\* from the More menu to view information about your copy of CourtZ.
-
-
+Select **About** to view information about your copy of CourtZ.
 
 The About dialog displays:
 
-
-
 - CourtZ version
-
-- Club name
-
-- Email address
-
+- club name
+- email address
 - licence status
-
 - licence type
-
 - issue date (licensed copies)
-
 - expiry date (where applicable)
 
-
-
-If you're using the trial version, you can also activate your purchased licence from the About dialog.
-
-
+If you are using the trial version, you can also activate your purchased licence from the About dialog.
 
 The About dialog also provides access to the CourtZ website.
 
+---
 
+## Tips
 
-## What's Next?
+> **Tip:** Temporary changes made using **Session Settings** affect only the current session. To make permanent changes, edit the Session Profile instead.
 
-
-
-Continue to \*\*Configuration\*\* to learn about the application settings.
-
-
+> **Tip:** Regularly exporting your configuration provides a convenient backup of your players, Session Profiles and application settings.
 
 ---
 
+## What's Next?
 
+Continue to **Configuration** to learn about the application settings.
+
+---
 
 ← [Countdown Timer](07-countdown-timer.md) | [🏠 Help Home](00-index.md) | [Configuration →](09-configuration.md)
-
