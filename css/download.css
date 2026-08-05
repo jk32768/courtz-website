@@ -8,7 +8,7 @@
 .download-card {
     flex: 1;
     min-width: 280px;
-    padding: 2rem;
+    padding: 1.75rem 2rem;
     text-align: center;
     border: 1px solid #ddd;
     border-radius: 12px;
@@ -17,6 +17,9 @@
 
     .download-card h3 {
         margin-top: 0;
+    }
+    .download-card p {
+        margin: 0.9rem 0;
     }
 
 .version {
