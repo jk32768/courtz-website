@@ -8,7 +8,6 @@
 .download-card {
     flex: 1;
     min-width: 280px;
-    max-width: 420px;
     padding: 1.75rem 2rem;
     text-align: center;
     border: 1px solid #ddd;
@@ -29,7 +28,7 @@
 
 .download-button {
     display: inline-block;
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     padding: 0.9rem 1.8rem;
     background: #1d7cf2;
     color: white;
