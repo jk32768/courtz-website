@@ -41,3 +41,9 @@
     .download-button:hover {
         background: #1767c7;
     }
+
+.trial {
+    margin: 0.75rem 0 1.5rem;
+    color: #2b7a2b;
+    font-weight: 600;
+}
