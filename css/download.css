@@ -1,0 +1,40 @@
+.download-cards {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
+.download-card {
+    flex: 1;
+    min-width: 280px;
+    padding: 2rem;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+}
+
+    .download-card h3 {
+        margin-top: 0;
+    }
+
+.version {
+    color: #666;
+}
+
+.download-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.9rem 1.8rem;
+    background: #1d7cf2;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: background .2s ease;
+}
+
+    .download-button:hover {
+        background: #1767c7;
+    }
