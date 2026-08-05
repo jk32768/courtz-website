@@ -75,3 +75,18 @@
 .step-text {
     font-size: 1.1rem;
 }
+
+.screenshot-frame {
+    margin: 2rem auto;
+    padding: 12px;
+    background: white;
+    border-radius: 14px;
+    box-shadow: 0 12px 30px rgba(0,0,0,.15);
+}
+
+.screenshot {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
