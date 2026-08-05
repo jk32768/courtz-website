@@ -47,3 +47,31 @@
     color: #2b7a2b;
     font-weight: 600;
 }
+
+.getting-started {
+    margin: 2rem 0;
+}
+
+.step {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.step-number {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #1d7cf2;
+    color: white;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.step-text {
+    font-size: 1.1rem;
+}
