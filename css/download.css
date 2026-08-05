@@ -1,6 +1,52 @@
+/* ---------- Layout ---------- */
+
+.download-container {
+    max-width: 800px;
+}
+
+.download-hero {
+    text-align: center;
+}
+
+.download-title {
+    margin-top: 1rem;
+}
+
+.download-subtitle {
+    max-width: 700px;
+    margin: 1.5rem auto;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.download-benefits {
+    max-width: 520px;
+    margin: 2rem auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.section-gap {
+    height: 2.5rem;
+}
+
+.section-divider {
+    margin: 4rem 0;
+    border: 0;
+    border-top: 1px solid #e5e5e5;
+}
+
+.section-intro {
+    max-width: 700px;
+    margin: 1rem auto 2rem;
+}
+
+/* ---------- Download Cards ---------- */
+
 .download-cards {
     display: flex;
     gap: 2rem;
+    justify-content: center;
     flex-wrap: wrap;
     margin-top: 2rem;
 }
@@ -9,36 +55,52 @@
     display: flex;
     flex-direction: column;
     flex: 1;
-    max-width: 420px;
     min-width: 280px;
+    max-width: 420px;
     padding: 2rem;
     text-align: center;
     border: 1px solid #ddd;
     border-radius: 12px;
+    background: white;
     box-shadow: 0 4px 12px rgba(0,0,0,.08);
     transition: transform .2s ease, box-shadow .2s ease;
 }
 
-    .download-card h3 {
-        margin-top: 0;
+    .download-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 10px 24px rgba(0,0,0,.15);
     }
+
+    .download-card h3 {
+        margin: 0;
+        font-size: 2rem;
+    }
+
     .download-card p {
-        margin: 0.9rem 0;
+        margin: .9rem 0;
     }
 
 .version {
     color: #666;
 }
 
+.trial {
+    color: #2b7a2b;
+    font-weight: 600;
+}
+
+/* ---------- Buttons ---------- */
+
 .download-button {
     display: inline-block;
-    margin-top: 0.5rem;
-    padding: 0.9rem 1.8rem;
+    margin-top: auto;
+    padding: .9rem 1.8rem;
     background: #1d7cf2;
     color: white;
     text-decoration: none;
     font-weight: 600;
-    border-radius: 8px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(29,124,242,.25);
     transition: background .2s ease, transform .2s ease;
 }
 
@@ -47,11 +109,28 @@
         transform: translateY(-2px);
     }
 
-.trial {
-    margin: 0.75rem 0 1.5rem;
-    color: #2b7a2b;
-    font-weight: 600;
+/* ---------- Screenshot ---------- */
+
+.screenshot-section {
+    margin: 2rem 0;
+    text-align: center;
 }
+
+.screenshot-frame {
+    padding: 12px;
+    background: white;
+    border-radius: 14px;
+    box-shadow: 0 12px 30px rgba(0,0,0,.15);
+}
+
+.screenshot {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* ---------- Getting Started ---------- */
 
 .getting-started {
     margin: 2rem 0;
@@ -70,37 +149,43 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
     border-radius: 50%;
     background: #1d7cf2;
     color: white;
     font-weight: bold;
-    flex-shrink: 0;
 }
 
 .step-text {
     font-size: 1.1rem;
 }
 
-.screenshot-frame {
-    margin: 2rem auto;
-    padding: 12px;
-    background: white;
-    border-radius: 14px;
-    box-shadow: 0 12px 30px rgba(0,0,0,.15);
+.help-text {
+    margin-top: 2rem;
 }
 
-.screenshot {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
+.cta {
+    margin-top: 2rem;
+    text-align: center;
 }
 
-.download-card {
-    transition: transform .2s ease, box-shadow .2s ease;
-}
+/* ---------- Responsive ---------- */
 
-    .download-card:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 10px 24px rgba(0,0,0,.15);
+@media (max-width: 700px) {
+
+    .download-card {
+        max-width: none;
     }
+
+    .download-subtitle {
+        font-size: 1.15rem;
+    }
+
+    .download-card h3 {
+        font-size: 1.7rem;
+    }
+
+    .step-text {
+        font-size: 1rem;
+    }
+}
