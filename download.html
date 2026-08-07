@@ -122,7 +122,10 @@
 
                         <a href="downloads/CourtZ-2.0.0.2.apk"
                            class="download-button"
-                           onclick="gtag('event', 'download_android');">
+                           onclick="gtag('event', 'download', {
+                               file_name: 'CourtZ-2.0.0.2.apk',
+                               platform: 'Android'
+                           });">
                             Download for Android
                         </a>
 
@@ -145,7 +148,10 @@
 
                         <a href="downloads/CourtZ-2.0.0.2-Setup.exe"
                            class="download-button"
-                           onclick="gtag('event', 'download_windows');">
+                           onclick="gtag('event', 'download', {
+                               file_name: 'CourtZ-2.0.0.2-Setup.exe',
+                               platform: 'Windows'
+                           });">
                             Download for Windows
                         </a>
 
