@@ -124,6 +124,7 @@ To remove a player:
 If the red **bin** button is not selected within **3 seconds**, it disappears and the player remains in the session.
 
 Removing a player from the Waiting Room affects only the current session. The player remains in the master player list and in any Session Profiles to which they belong.
+
 ---
 
 ## What's Next?
