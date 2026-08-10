@@ -63,7 +63,7 @@ Choose the required game settings, then add players to the Waiting Room from:
 - the master player list
 - guest players
 
-When everyone has been added, select the <span class="nav-icon">↻</span> button to generate the first round of games.
+When everyone has been added, select the <span class="nav-icon">+</span> button to generate the first round of games.
 
 CourtZ creates today's session and allocates players to the available courts. If there are more players than available court spaces, the remaining players stay in the Waiting Room.
 

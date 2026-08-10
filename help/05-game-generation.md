@@ -2,7 +2,7 @@
 
 Game Generation is at the heart of CourtZ.
 
-The first round of games is generated automatically when a session starts. After each round of play, select **↻** to generate the next round.
+The first round of games is generated automatically when a session starts. After each round of play, select <span class="nav-icon">+</span> to generate the next round.
 
 ---
 
@@ -26,7 +26,7 @@ If you are using the optional Countdown Timer, start it before play begins. An a
 
 ## Generating the Next Round
 
-When the current round has finished, select the <span class="nav-icon">↻</span> button to generate the next round.
+When the current round has finished, select the <span class="nav-icon">+</span> button to generate the next round.
 
 CourtZ automatically:
 
@@ -51,7 +51,7 @@ Use the navigation controls above the Games panel to move backwards and forwards
 
 - <span class="nav-icon">&lt;</span> displays the previous round.
 - <span class="nav-icon">&gt;</span> moves forwards through existing rounds.
-- <span class="nav-icon">↻</span> generates the next round or regenerates the current round after editing the previous round.
+- <span class="nav-icon">+</span> generates the next round or regenerates the current round after editing the previous round.
 
 Historical rounds show the original court allocations together with the Waiting Room for that round.
 Historical rounds are read-only.
@@ -69,7 +69,7 @@ This allows you to correct changes that occurred during the current round, such 
 - a late-arriving player joining the session
 - adding a guest player
 
-After making changes, the <span class="nav-icon">↻</span> button regenerates the current round using the updated player list.
+After making changes, the <span class="nav-icon">+</span> button regenerates the current round using the updated player list.
 
 Earlier rounds are read-only and cannot be modified.
 
@@ -77,7 +77,7 @@ Earlier rounds are read-only and cannot be modified.
 
 ## Regenerating the Current Round
 
-After editing the previous round, the <span class="nav-icon">↻</span> button changes from generating the next round to regenerating the current round.
+After editing the previous round, the <span class="nav-icon">+</span> button changes from generating the next round to regenerating the current round.
 
 Regeneration replaces the current round using the updated player list.
 
@@ -131,7 +131,7 @@ For example, you can:
 - add a guest player
 - remove a player who leaves the session
 
-Any changes are automatically taken into account the next time the <span class="nav-icon">↻</span> button is selected.
+Any changes are automatically taken into account the next time the <span class="nav-icon">+</span> button is selected.
 
 ---
 
