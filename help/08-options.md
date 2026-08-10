@@ -77,6 +77,22 @@ The exported configuration can be used to:
 
 ---
 
+## Online Help
+
+Select **Online Help** from the **More** menu to open the CourtZ Help website.
+
+The online help includes:
+
+- getting started guides
+- explanations of CourtZ features
+- step-by-step instructions
+- troubleshooting information
+- the latest documentation for new releases
+
+An internet connection is required to access the online help.
+
+---
+
 ## About
 
 Select **About** to view information about your copy of CourtZ.
