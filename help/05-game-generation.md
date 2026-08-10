@@ -140,16 +140,16 @@ Any changes are automatically taken into account the next time the <span class="
 To help prevent accidental removal, players are removed from the Waiting Room using a two-step process.
 
 1. Tap and hold the player's name.
-2. A red **Delete** icon appears within the player label.
-3. Tap the red **Delete** icon within **3 seconds** to remove the player from the current session.
+2. A red **bin** icon appears within the player label.
+3. Tap the red **bin** icon within **3 seconds** to remove the player from the current session.
 
 <img src="images/delete-player.png"
      alt="Delete player from Waiting Room"
      width="220">
 
-*Tap and hold a player in the Waiting Room to reveal the Delete icon. Select it within 3 seconds to remove the player from the current session.*
+*Tap and hold a player in the Waiting Room to reveal the bin button. Select it within 3 seconds to remove the player from the current session.*
 
-If the **Delete** icon is not selected within 3 seconds, it disappears and the player remains in the session.
+If the **bin** icon is not selected within 3 seconds, it disappears and the player remains in the session.
 
 Removing a player from the Waiting Room affects only the current session. The player remains in the master player list and in any Session Profiles to which they belong.
 
