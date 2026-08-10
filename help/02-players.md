@@ -77,14 +77,16 @@ To help prevent accidental deletion, players are deleted using a two-step proces
 To delete a player:
 
 1. Tap and hold the player's name.
-2. A red **Delete** icon appears within the player label.
-3. Tap the red **Delete** icon within **3 seconds**.
+2. A red **bin** button appears beside the player's name.
+3. Tap the red **bin** button within **3 seconds**.
 
 <img src="images/delete-player.png"
      alt="Delete player"
      width="140">
 
-*Tap and hold a player's name to reveal the Delete icon. If it is not selected within 3 seconds, it disappears.*
+*Tap and hold a player's name to reveal the red bin button. Select it within 3 seconds to delete the player.*
+
+If the red **bin** button is not selected within **3 seconds**, it disappears and the player is not deleted.
 
 If the player belongs to one or more Session Profiles, CourtZ automatically removes the player from those profiles.
 

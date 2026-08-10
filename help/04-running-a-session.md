@@ -103,6 +103,27 @@ CourtZ uses the Waiting Room whenever new games are generated, automatically mov
 
 *The Waiting Room contains players waiting for their next game. As courts become available, CourtZ automatically selects players from the Waiting Room when generating the next round.*
 
+### Removing a Player from the Waiting Room
+
+If a player leaves the session before being selected for a game, they can be removed directly from the Waiting Room.
+
+To help prevent accidental removal, players are removed using a two-step process.
+
+To remove a player:
+
+1. Tap and hold the player's name.
+2. A red **bin** button appears beside the player's name.
+3. Tap the red **bin** button within **3 seconds**.
+
+<img src="images/delete-player.png"
+     alt="Remove player from Waiting Room"
+     width="220">
+
+*Tap and hold a player's name to reveal the red bin button. Select it within 3 seconds to remove the player from the current session.*
+
+If the red **bin** button is not selected within **3 seconds**, it disappears and the player remains in the session.
+
+Removing a player from the Waiting Room affects only the current session. The player remains in the master player list and in any Session Profiles to which they belong.
 ---
 
 ## What's Next?

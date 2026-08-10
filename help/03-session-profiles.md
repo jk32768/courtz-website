@@ -41,6 +41,28 @@ The Session Profile is now available whenever you start a new session.
 
 ---
 
+## Deleting a Session Profile
+
+To help prevent accidental deletion, Session Profiles are deleted using a two-step process.
+
+To delete a Session Profile:
+
+1. Tap and hold the Session Profile.
+2. A red **bin** button appears beside the Session Profile name.
+3. Tap the red **bin** button within **3 seconds**.
+
+<img src="images/delete-session-profile.png"
+     alt="Delete Session Profile"
+     width="220">
+
+*Tap and hold a Session Profile to reveal the red bin button. Select it within 3 seconds to delete the Session Profile.*
+
+If the red **bin** button is not selected within **3 seconds**, it disappears and the Session Profile is not deleted.
+
+Deleting a Session Profile removes only the profile. Players remain in the master player list.
+
+---
+
 ## Session Settings
 
 Each Session Profile stores the default settings used whenever a new session is started.
@@ -71,6 +93,24 @@ You can:
 - remove players from the Session Profile
 
 Player details such as names and Skill Levels are managed on the **Players** page.
+
+### Removing Players from a Session Profile
+
+To help prevent accidental removal, players are removed from a Session Profile using a two-step process.
+
+To remove a player:
+
+1. Tap and hold the player's name.
+2. A red **bin** button appears beside the player's name.
+3. Tap the red **bin** button within **3 seconds**.
+
+<img src="images/delete-player.png"
+     alt="Remove player from Session Profile"
+     width="220">
+
+*Tap and hold a player's name to reveal the red bin button. Select it within 3 seconds to remove the player from the Session Profile.*
+
+If the red **bin** button is not selected within **3 seconds**, it disappears and the player remains in the Session Profile.
 
 Any changes made to a player's details are automatically reflected in every Session Profile that includes that player.
 
