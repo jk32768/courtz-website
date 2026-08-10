@@ -21,10 +21,27 @@ async function loadPage() {
         );
 
         content.innerHTML = `
-        <section class="container help-content">
-            ${html}
-        </section>
-    `;
+            <section class="container help-content">
+                ${html}
+
+                <hr>
+
+                <h2>Need More Help?</h2>
+
+                <p>
+                    If you can't find the answer you're looking for, or have
+                    suggestions for improving CourtZ, we'd love to hear from you.
+                </p>
+
+                <p>
+                    Email us at
+                    <a href="mailto:support@courtzapp.co.uk">
+                        support@courtzapp.co.uk
+                    </a>.
+                </p>
+
+            </section>
+        `;
 
     }
     catch {
