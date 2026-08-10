@@ -2,7 +2,7 @@
 
 Game Generation is at the heart of CourtZ.
 
-The first round of games is generated automatically when a session starts. After each round of play, select the **New Game** (refresh) button to generate the next round.
+The first round of games is generated automatically when a session starts. After each round of play, select **↻** to generate the next round.
 
 ---
 
@@ -26,7 +26,7 @@ If you are using the optional Countdown Timer, start it before play begins. An a
 
 ## Generating the Next Round
 
-When the current round has finished, select the **New Game** (refresh) button.
+When the current round has finished, select the <span class="nav-icon">↻</span> button to generate the next round.
 
 CourtZ automatically:
 
@@ -40,6 +40,48 @@ The court and player allocation is calculated automatically using the current se
 Players can then move to their allocated courts and begin the next round.
 
 Repeat this process until the session has finished.
+
+---
+
+## Viewing Previous Rounds
+
+CourtZ keeps a complete history of every round generated during the current session.
+
+Use the navigation controls above the Games panel to move backwards and forwards through previous rounds.
+
+- <span class="nav-icon">&lt;</span> displays the previous round.
+- <span class="nav-icon">&gt;</span> moves forwards through existing rounds.
+- <span class="nav-icon">↻</span> generates the next round or regenerates the current round after editing the previous round.
+
+Historical rounds show the original court allocations together with the Waiting Room for that round.
+Historical rounds are read-only.
+
+---
+
+## Editing the Previous Round
+
+Only the immediately previous round can be edited.
+
+This allows you to correct changes that occurred during the current round, such as:
+
+- a player leaving the session
+- a player resting after the current game
+- a late-arriving player joining the session
+- adding a guest player
+
+After making changes, the <span class="nav-icon">↻</span> button regenerates the current round using the updated player list.
+
+Earlier rounds are read-only and cannot be modified.
+
+---
+
+## Regenerating the Current Round
+
+After editing the previous round, the <span class="nav-icon">↻</span> button changes from generating the next round to regenerating the current round.
+
+Regeneration replaces the current round using the updated player list.
+
+A warning is displayed before the previous round is edited to remind you that any games already in progress should be allowed to finish before regenerating.
 
 ---
 
@@ -81,7 +123,7 @@ If there are more players than available court spaces, some players remain in th
 
 ## Players Joining or Leaving
 
-Players can be added to or removed from a session at any time.
+While viewing the latest or previous round, players can be added to or removed from the session.
 
 For example, you can:
 
@@ -89,7 +131,9 @@ For example, you can:
 - add a guest player
 - remove a player who leaves the session
 
-Any changes are automatically taken into account the next time the **New Game** (refresh) button is selected.
+Any changes are automatically taken into account the next time the <span class="nav-icon">↻</span> button is selected.
+
+---
 
 ### Removing a Player from the Waiting Room
 

@@ -26,7 +26,7 @@ Depending on your session, you can change settings such as:
 - Team Skills
 - mixed games preferences
 
-The updated settings are used the next time the **New Game** (refresh) button is selected.
+The updated settings are used the next time the <span class="nav-icon">↻</span> button is selected.
 
 These changes affect only the current session. They do not modify the original Session Profile.
 

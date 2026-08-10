@@ -55,7 +55,7 @@ Before generating the next round you can:
 - mark players who wish to sit out the next round
 - review the Waiting Room
 
-When you are satisfied that the player list is correct, select the **New Game** (refresh) button to generate the next round.
+When you are satisfied that the player list is correct, select the <span class="nav-icon">↻</span> button to generate the next round.
 
 Games Display can then be reopened to show the updated court allocations to players.
 

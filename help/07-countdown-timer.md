@@ -34,7 +34,7 @@ Changing the game duration affects only the current session. The original Sessio
 
 When the countdown reaches zero, an alarm sounds to indicate that the current round has finished.
 
-Return to the Games page. If any players wish to rest or leave the session, update their availability before selecting the New Game (refresh) button to generate the next round.
+Return to the Games page. If any players wish to rest or leave the session, update their availability before selecting the <span class="nav-icon">↻</span> button to generate the next round.
 
 The Countdown Timer is optional. If games finish before the timer expires, simply generate the next round when everyone is ready.
 
