@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Version History - CourtZ</title>
+
+    <meta name="description"
+          content="Version history for the CourtZ app, including features, improvements and fixes.">
+
+    <style>
+        :root {
+            --blue: #4aa9e8;
+            --text: #222;
+            --muted: #666;
+            --border: #e5e5e5;
+            --background: #f7f9fb;
+            --card: #fff;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            color: var(--text);
+            background: var(--background);
+            line-height: 1.6;
+        }
+
+        .page {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 32px 20px 56px;
+        }
+
+        header,
+        main {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+        }
+
+        header {
+            padding: 28px 30px;
+            margin-bottom: 20px;
+        }
+
+        main {
+            padding: 30px;
+        }
+
+        h1 {
+            margin: 0 0 6px;
+            color: var(--blue);
+            font-size: 2rem;
+        }
+
+        h2 {
+            margin-top: 36px;
+            margin-bottom: 8px;
+            font-size: 1.25rem;
+        }
+
+            h2:first-child {
+                margin-top: 0;
+            }
+
+        p,
+        li {
+            font-size: 1rem;
+        }
+
+        .intro {
+            margin: 0;
+            color: var(--muted);
+            font-size: 0.95rem;
+        }
+
+        #content hr {
+            border: 0;
+            border-top: 1px solid var(--border);
+            margin: 28px 0;
+        }
+
+        #content code {
+            font-family: Consolas, Monaco, monospace;
+            font-size: 0.9em;
+        }
+
+        .error {
+            color: #b00020;
+        }
+
+        footer {
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.9rem;
+            padding-top: 20px;
+        }
+
+        @media (max-width: 600px) {
+
+            .page {
+                padding: 16px 12px 40px;
+            }
+
+            header,
+            main {
+                padding: 22px 20px;
+            }
+
+            h1 {
+                font-size: 1.7rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="page">
+
+        <header>
+            <h1>CourtZ Version History</h1>
+
+            <p class="intro">
+                A record of the features, improvements and fixes included in each release.
+            </p>
+        </header>
+
+        <main>
+            <article id="content">
+                Loading version history...
+            </article>
+        </main>
+
+        <footer>
+            &copy; 2026 CourtZ
+        </footer>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <script>
+        fetch("version-history.md")
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Unable to load version history.");
+                }
+
+                return response.text();
+            })
+            .then(markdown => {
+                document.getElementById("content").innerHTML =
+                    marked.parse(markdown);
+            })
+            .catch(error => {
+                document.getElementById("content").innerHTML =
+                    '<p class="error">Unable to load the version history.</p>';
+
+                console.error(error);
+            });
+    </script>
+
+</body>
+</html>
