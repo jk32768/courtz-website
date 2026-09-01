@@ -132,6 +132,19 @@ Select the Attendance button to open the Attendance dialog. Select the players e
 
 Use Select All or Clear All to quickly mark every player as attending or absent before making individual changes.
 
+### Expected Games
+
+You can optionally specify how many games an attending player expects to play.
+
+Tap a player's status icon to set or adjust their Expected Games.
+
+- **Tick** – the player is attending.
+- **Stopwatch** – the player has an Expected Games value set.
+
+Expected Games can be set to **1, 2, 3, 4, or Any**.
+
+Players with an Expected Games target are prioritised during round generation to help them reach their expected number of games. When a player reaches their target, CourtZ provides the option to remove them before the next round is generated.
+
 The attendance list can be updated whenever players confirm or cancel before the session begins.
 
 ---
