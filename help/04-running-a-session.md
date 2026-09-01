@@ -78,6 +78,19 @@ Players can be added directly to the Waiting Room from the master player list or
 
 *A session started without using a Session Profile. Players can be added to the Waiting Room before the first games are generated.*
 
+### Expected Games
+
+You can optionally specify how many games an attending player expects to play.
+
+Tap a player's status icon to set or adjust their Expected Games.
+
+- **Tick** – the player is attending.
+- **Stopwatch** – the player has an Expected Games value set.
+
+Expected Games can be set to **1**, **2**, **3**, **4** or **Any** (expected number of games is unspecified).
+
+Players with an Expected Games target are prioritised during round generation to help them reach their expected number of games. When a player reaches their target, CourtZ provides the option to remove them before the next round is generated.
+
 ### Guest Players
 
 Guest players can be added directly to the Waiting Room.
@@ -103,19 +116,6 @@ CourtZ uses the Waiting Room whenever new games are generated, automatically mov
      width="900">
 
 *The Waiting Room contains players waiting for their next game. As courts become available, CourtZ automatically selects players from the Waiting Room when generating the next round.*
-
-### Expected Games
-
-You can optionally specify how many games an attending player expects to play.
-
-Tap a player's status icon to set or adjust their Expected Games.
-
-- **Tick** – the player is attending.
-- **Stopwatch** – the player has an Expected Games value set.
-
-Expected Games can be set to **1**, **2**, **3**, **4** or **Any** (expected number of games is unspecified).
-
-Players with an Expected Games target are prioritised during round generation to help them reach their expected number of games. When a player reaches their target, CourtZ provides the option to remove them before the next round is generated.
 
 ### Removing a Player from the Waiting Room
 
