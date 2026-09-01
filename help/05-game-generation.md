@@ -96,8 +96,17 @@ Rather than applying a single rule, CourtZ balances a number of factors, includi
 - previous opponents
 - mixed games preferences
 - player waiting time
+- Expected Games
 
 The importance of each factor depends on the current session settings. For example, **Balanced** Team Skills attempts to produce evenly matched teams by keeping the total Skill Levels of each side as close as possible, while **Competitive** Team Skills attempts to group players of similar ability together.
+
+### Expected Games
+
+Players can optionally specify the number of games they expect to play when attendance is prepared.
+
+When a player has an Expected Games target, CourtZ gives them additional priority during game generation to help them reach that target.
+
+Once a player reaches their expected number of games, you can choose to remove them before generating the next round.
 
 No two sessions are exactly alike, so the generated games may vary as player attendance changes throughout the session.
 
