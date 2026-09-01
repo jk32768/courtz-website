@@ -1,70 +1,77 @@
 # Configuration
 
-A CourtZ configuration contains everything needed to recreate your CourtZ setup on another device.
+A CourtZ configuration allows players, Session Profiles and application settings to be transferred between devices, shared with other organisers or saved as a backup.
 
-A configuration includes:
+A complete configuration includes:
 
 - the master player list
 - all Session Profiles
 - application settings
 
-Configurations are useful for creating backups, transferring CourtZ to another device or sharing the same setup with other organisers.
+You can also export or share selected Session Profiles without transferring the entire configuration.
 
 ---
 
-## Sharing a Configuration
+## Exporting or Sharing a Configuration
 
-Select **Share Configuration** from the **Options** menu to export your current CourtZ configuration.
+CourtZ uses different terminology depending on the device:
 
-The exported configuration can be used to:
+- On desktop devices, select **Export Configuration** to save a configuration file.
+- On mobile devices, select **Share Configuration** to share a configuration using the device's standard sharing options.
+
+You can export or share:
+
+- the complete configuration
+- selected Session Profiles
+
+When selected Session Profiles are exported or shared, the players required by those profiles are included automatically.
+
+Configuration files use a standard JSON format and can be used to:
 
 - create a backup
 - transfer CourtZ to another device
-- share your CourtZ setup with another organiser
-
-The exported configuration contains:
-
-- all players
-- all Session Profiles
-- application settings
+- share selected sessions or a complete club configuration with another organiser
 
 ---
 
 ## Importing a Configuration
 
-Select **Import Configuration** from the **Options** menu to restore a previously exported configuration.
+Select **Import Configuration** from the **Options** menu to import a previously exported CourtZ configuration.
 
-Importing a configuration replaces the current CourtZ configuration, including:
+When importing a configuration, you can choose how the imported data is applied:
 
-- all players
-- all Session Profiles
-- application settings
+- **Replace** – replaces the current CourtZ configuration with the imported configuration.
+- **Merge** – combines the imported configuration with the existing CourtZ data.
+- **Selected Profiles** – imports only the Session Profiles you choose, together with the players required by those profiles.
 
-After the import is complete, CourtZ uses the imported configuration immediately.
+CourtZ validates imported files and reports an error if the selected file is not a valid CourtZ configuration.
+
+After the import is complete, the imported data is available immediately.
 
 ---
 
 ## Working with Multiple Organisers
 
-If more than one organiser manages your club sessions, it is good practice to nominate one person to maintain the master configuration.
+If more than one organiser manages your club sessions, configurations can be used to share players and Session Profiles between devices.
 
-When permanent changes are made, such as:
+For example, you might:
 
-- adding or removing players
-- updating Session Profiles
-- changing application settings
+- share selected Session Profiles with another organiser
+- export a complete configuration as a backup
+- transfer a configuration to a new device
+- import changes from another organiser
 
-the organiser maintaining the master configuration should share an updated configuration with the other organisers.
-
-This helps ensure everyone is working with the same players, Session Profiles and application settings.
+When several organisers make changes independently, the **Merge** import option can be used to combine imported data with the existing configuration.
 
 ---
 
 ## Tips
 
-> **Tip:** Regularly export your configuration to create a backup before making significant changes.
+> **Tip:** Regularly export your complete configuration to create a backup before making significant changes.
 
-> **Tip:** Importing a configuration replaces the existing CourtZ data. If you want to keep your current data, export it first.
+> **Tip:** Use selected Session Profile export or sharing when you only need to transfer specific sessions rather than your entire CourtZ configuration.
+
+> **Tip:** Choose the import option carefully. **Replace** removes the current configuration, while **Merge** and **Selected Profiles** allow imported data to be added to the existing configuration.
 
 ---
 
