@@ -49,6 +49,18 @@ A Session Setting that controls how CourtZ balances player abilities when genera
 
 ---
 
+## Expected Games
+
+Expected Games is the number of games a player expects to play during a session.
+
+When attendance is prepared, an attending player can optionally be assigned an Expected Games value of **1**, **2**, **3**, **4** or **Any** (expected number of games is unspecified).
+
+Players with an Expected Games target are given additional priority during game generation to help them reach their target.
+
+Once a player reaches their expected number of games, they can optionally be removed from the session before the next round is generated.
+
+---
+
 ## Waiting Room
 
 The Waiting Room contains players who are not currently playing.
