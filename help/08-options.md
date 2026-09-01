@@ -6,7 +6,7 @@ Select **Options** (⋮) from the **Games** page to open the Options menu.
 
 <img src="images/options-menu.png"
      alt="Options menu"
-     width="340">
+     width="200">
 
 *The Options menu provides access to session settings, saving sessions, configuration management and application information.*
 
@@ -32,7 +32,7 @@ These changes affect only the current session. They do not modify the original S
 
 <img src="images/session-settings.png"
      alt="Session Settings"
-     width="600">
+     width="400">
 
 *Session Settings allows the game generation settings for the current session to be adjusted.*
 
@@ -53,27 +53,48 @@ This is useful if you started a session without using a Session Profile, or if y
 
 ## Import Configuration
 
-Select **Import Configuration** to restore a previously exported CourtZ configuration.
+Select **Import Configuration** to import a previously exported CourtZ configuration.
 
-A configuration contains:
+A configuration can contain:
 
 - players
 - Session Profiles
 - application settings
 
-Importing a configuration replaces the current CourtZ data.
+When importing a configuration, you can choose how the imported data is applied:
+
+- **Replace** – replaces the current configuration with the imported configuration.
+- **Merge** – combines the imported configuration with the existing data.
+- **Selected Profiles** – imports only selected Session Profiles and the players required by those profiles.
+
+When configurations are merged, imported data is combined with the existing CourtZ configuration.
+
+CourtZ validates imported files and reports an error if the file is not a valid CourtZ configuration.
 
 ---
 
-## Share Configuration
+## Export or Share Configuration
 
-Select **Share Configuration** to export the current CourtZ configuration.
+CourtZ allows configuration data to be transferred to another device or saved as a backup.
 
-The exported configuration can be used to:
+On desktop devices, select **Export Configuration** to save the configuration to a file.
+
+On mobile devices, select **Share Configuration** to share the configuration using the device's standard sharing options.
+
+You can export or share:
+
+- the complete configuration
+- selected Session Profiles
+
+When selected Session Profiles are exported or shared, the players required by those profiles are included automatically.
+
+Configuration data can be used to:
 
 - create a backup
 - transfer CourtZ data to another device
 - share a club configuration with another organiser
+
+Configuration files use a standard JSON format, making them easier to transfer between supported platforms.
 
 ---
 
