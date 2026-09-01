@@ -30,6 +30,7 @@ Use the Attendance dialog to prepare today's session by:
 - clearing players who are absent
 - adding players from the master player list
 - adding guest players
+- optionally setting the Expected Games for attending players
 
 When the player list is complete, select **Start Session**.
 
@@ -67,7 +68,7 @@ When everyone has been added, select the <span class="nav-icon">+</span> button 
 
 CourtZ creates today's session and allocates players to the available courts. If there are more players than available court spaces, the remaining players stay in the Waiting Room.
 
-When a session is started without using a Session Profile, the session name displays as **`<unsaved session>`**. This indicates that the session is using the default game settings rather than those stored in a Session Profile.
+When a session is started without using a Session Profile, the session name displays as **`<no profile selected>`**. This indicates that the session is using the default game settings rather than those stored in a Session Profile.
 
 Players can be added directly to the Waiting Room from the master player list or as guest players before play begins.
 
@@ -102,6 +103,19 @@ CourtZ uses the Waiting Room whenever new games are generated, automatically mov
      width="900">
 
 *The Waiting Room contains players waiting for their next game. As courts become available, CourtZ automatically selects players from the Waiting Room when generating the next round.*
+
+### Expected Games
+
+You can optionally specify how many games an attending player expects to play.
+
+Tap a player's status icon to set or adjust their Expected Games.
+
+- **Tick** – the player is attending.
+- **Stopwatch** – the player has an Expected Games value set.
+
+Expected Games can be set to **1**, **2**, **3**, **4** or **Any** (expected number of games is unspecified).
+
+Players with an Expected Games target are prioritised during round generation to help them reach their expected number of games. When a player reaches their target, CourtZ provides the option to remove them before the next round is generated.
 
 ### Removing a Player from the Waiting Room
 

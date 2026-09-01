@@ -141,7 +141,7 @@ Tap a player's status icon to set or adjust their Expected Games.
 - **Tick** – the player is attending.
 - **Stopwatch** – the player has an Expected Games value set.
 
-Expected Games can be set to **1, 2, 3, 4, or Any**.
+Expected Games can be set to **1**, **2**, **3**, **4** or **Any** (expected number of games is unspecified).
 
 Players with an Expected Games target are prioritised during round generation to help them reach their expected number of games. When a player reaches their target, CourtZ provides the option to remove them before the next round is generated.
 
