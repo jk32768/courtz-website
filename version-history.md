@@ -1,3 +1,12 @@
+## Version 3.3.2
+
+Version Code 12
+
+ - Licence activation - fixed an issue where valid licence keys could be rejected when activating CourtZ on Android. 
+ - Licence activation now works correctly on Android and Windows.
+
+---
+
 ## Version 3.3.1
 
 Version Code 11
