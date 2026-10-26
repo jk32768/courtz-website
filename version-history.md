@@ -1,3 +1,14 @@
+## Version 3.3.3
+
+Version Code 13
+
+ - Improved scheduler performance.
+ - Fixed Competitive Mode and Prefer Mixed settings.
+ - Improved opening-round scheduling between sessions.
+ - Minor UI improvements for Settings popup.
+
+---
+
 ## Version 3.3.2
 
 Version Code 12
