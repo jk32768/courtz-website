@@ -1,3 +1,14 @@
+## Version 3.3.4
+
+Version Code 14
+
+* Improved trial expiry screen with direct licence activation.
+* Added website and help links to the trial expiry screen.
+* Improved licensing guidance and support information.
+* New installations now start with an empty configuration instead of sample players and Session Profiles.
+
+---
+
 ## Version 3.3.3
 
 Version Code 13
