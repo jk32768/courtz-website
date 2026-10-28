@@ -1,3 +1,12 @@
+## Version 3.4.1
+
+Version Code 16
+
+* Improved session scheduling for more balanced play and greater variety in partnerships.
+* Additional performance improvements and refinements for a smoother playing experience.
+
+---
+
 ## Version 3.4.0
 
 Version Code 15
