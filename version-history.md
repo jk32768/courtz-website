@@ -1,3 +1,15 @@
+## Version 3.5.0
+
+Version Code 17
+
+* Added player groups / clubs, with tools to create, rename and delete groups and assign players to one or more groups.
+* Added group filtering to player selection, including filters for the Players page and player selection popups.
+* Improved player selection and attendance popups across screen sizes and orientations, with clearer controls and more usable space.
+* Added player and Session Profile counts to their lists.
+* Fixed a crash when generating the next round after adding players to the waiting room without a saved Session Profile.
+
+---
+
 ## Version 3.4.1
 
 Version Code 16
