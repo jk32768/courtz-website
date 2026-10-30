@@ -2,3 +2,6 @@
 *.vsidx
 *.db
 *.sqlite
+
+# Keep previous release downloads locally only.
+/downloads/archive/
