@@ -14,7 +14,7 @@ You can also share selected Session Profiles without transferring the entire con
 
 ## Sharing a Configuration
 
-Select **Share Configuration** from the **Options** menu.
+Select **Share Configuration** from the **Options** menu (⋮).
 
 CourtZ opens the available sharing options, allowing you to choose an app or sharing method, such as WhatsApp or email.
 
@@ -72,7 +72,7 @@ CourtZ opens the configuration and lets you choose how to import it.
 You can also import a configuration manually:
 
 1. Open CourtZ.
-2. Open the **Options** menu.
+2. Open the **Options** menu (⋮).
 3. Select **Import Configuration**.
 4. Use the file picker to locate and select the configuration file.
 5. Choose how you want the imported data to be applied.

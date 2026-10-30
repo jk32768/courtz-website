@@ -16,11 +16,19 @@ Session Profiles make it easy to recreate regular club sessions without selectin
 
 ---
 
+## Group / Club
+
+A Group or Club is a label used to organise players, for example by club or sport. A player can belong to more than one group.
+
+When filtering players by multiple groups, CourtZ shows players who belong to **any** of the selected groups.
+
+---
+
 ## Session Settings
 
 Session Settings are the options currently used when generating games during a session.
 
-A session normally starts with the settings stored in the selected Session Profile. These can be temporarily changed using **Session Settings** from the **Options** menu without modifying the original Session Profile.
+A session normally starts with the settings stored in the selected Session Profile. These can be temporarily changed using **Session Settings** from the **Options** menu (⋮) without modifying the original Session Profile.
 
 ---
 
@@ -84,9 +92,9 @@ It is designed to be displayed on a tablet, television or projector so players c
 
 ---
 
-## New Game
+## Generate Next Round
 
-The **New Game** (refresh) button generates the next round of games using the current Session Settings, player availability and Waiting Room.
+On the latest round, select the <span class="nav-icon">+</span> icon to generate the next round using the current Session Settings, player availability and Waiting Room.
 
 ---
 

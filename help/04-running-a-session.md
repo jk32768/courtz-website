@@ -32,6 +32,8 @@ Use the Attendance dialog to prepare today's session by:
 - adding guest players
 - optionally setting the Expected Games for attending players
 
+When adding players, use the search field or group filter in **Select Players** to narrow the list. A player can belong to more than one group; see [Groups and Clubs](02-players.md#groups-and-clubs).
+
 When the player list is complete, select **Start Session**.
 
 <img src="images/attendance-start.png"
@@ -72,12 +74,12 @@ This allows them to be included automatically in future sessions that use this S
 
 If you are not using a Session Profile, you create today's session directly from the **Games** page.
 
-Choose the required game settings, then add players to the Waiting Room from:
+Choose the required game settings, then add players to the Waiting Room:
 
-- the master player list
-- guest players
+- Select the add-player icon <span class="material-symbol" role="img" aria-label="Add players">&#xe7fe;</span> to choose players from the master list.
+- Select **+Guest** to add a guest player for this session.
 
-When everyone has been added, select the <span class="nav-icon">+</span> button to generate the first round of games.
+When everyone has been added, select the <span class="nav-icon">+</span> icon to generate the first round of games.
 
 CourtZ creates today's session and allocates players to the available courts. If there are more players than available court spaces, the remaining players stay in the Waiting Room.
 
@@ -126,16 +128,16 @@ To help prevent accidental removal, players are removed using a two-step process
 To remove a player:
 
 1. Tap and hold the player's name.
-2. A red **bin** button appears beside the player's name.
-3. Tap the red **bin** button within **3 seconds**.
+2. A red bin icon <span class="material-symbol delete-symbol" role="img" aria-label="Delete">&#xE872;</span> appears beside the player's name.
+3. Tap the red bin icon within **3 seconds**.
 
 <img src="images/delete-player.png"
      alt="Remove player from Waiting Room"
      width="220">
 
-*Tap and hold a player's name to reveal the red bin button. Select it within 3 seconds to remove the player from the current session.*
+*Tap and hold a player's name to reveal the red bin icon. Select it within 3 seconds to remove the player from the current session.*
 
-If the red **bin** button is not selected within **3 seconds**, it disappears and the player remains in the session.
+If the red bin icon is not selected within **3 seconds**, it disappears and the player remains in the session.
 
 Removing a player from the Waiting Room affects only the current session. The player remains in the master player list and in any Session Profiles to which they belong.
 

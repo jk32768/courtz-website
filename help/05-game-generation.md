@@ -12,7 +12,7 @@ When you select **Start Session**, CourtZ automatically generates the first roun
 
 Players are allocated to courts and any remaining players are placed in the Waiting Room.
 
-<img src="images/games-page.png"
+<img src="images/games-page.png?v=3.5.0"
      alt="Games page"
      width="900">
 
@@ -26,7 +26,7 @@ If you are using the optional Countdown Timer, start it before play begins. An a
 
 ## Generating the Next Round
 
-When the current round has finished, select the <span class="nav-icon">+</span> button to generate the next round.
+When the current round has finished, select the <span class="nav-icon">+</span> icon to generate the next round.
 
 CourtZ automatically:
 
@@ -69,7 +69,7 @@ This allows you to correct changes that occurred during the current round, such 
 - a late-arriving player joining the session
 - adding a guest player
 
-After making changes, the <span class="nav-icon">+</span> button regenerates the current round using the updated player list.
+After making changes, the <span class="nav-icon">+</span> icon regenerates the current round using the updated player list.
 
 Earlier rounds are read-only and cannot be modified.
 
@@ -77,7 +77,7 @@ Earlier rounds are read-only and cannot be modified.
 
 ## Regenerating the Current Round
 
-After editing the previous round, the <span class="nav-icon">+</span> button changes from generating the next round to regenerating the current round.
+After editing the previous round, the <span class="nav-icon">+</span> icon changes from generating the next round to regenerating the current round.
 
 Regeneration replaces the current round using the updated player list.
 
@@ -140,7 +140,7 @@ For example, you can:
 - add a guest player
 - remove a player who leaves the session
 
-Any changes are automatically taken into account the next time the <span class="nav-icon">+</span> button is selected.
+Any changes are automatically taken into account the next time the <span class="nav-icon">+</span> icon is selected.
 
 ---
 
@@ -149,16 +149,16 @@ Any changes are automatically taken into account the next time the <span class="
 To help prevent accidental removal, players are removed from the Waiting Room using a two-step process.
 
 1. Tap and hold the player's name.
-2. A red **bin** icon appears within the player label.
-3. Tap the red **bin** icon within **3 seconds** to remove the player from the current session.
+2. A red bin icon <span class="material-symbol delete-symbol" role="img" aria-label="Delete">&#xE872;</span> appears within the player label.
+3. Tap the red bin icon within **3 seconds** to remove the player from the current session.
 
 <img src="images/delete-player.png"
      alt="Delete player from Waiting Room"
      width="220">
 
-*Tap and hold a player in the Waiting Room to reveal the bin button. Select it within 3 seconds to remove the player from the current session.*
+*Tap and hold a player in the Waiting Room to reveal the red bin icon. Select it within 3 seconds to remove the player from the current session.*
 
-If the **bin** icon is not selected within 3 seconds, it disappears and the player remains in the session.
+If the red bin icon is not selected within 3 seconds, it disappears and the player remains in the session.
 
 Removing a player from the Waiting Room affects only the current session. The player remains in the master player list and in any Session Profiles to which they belong.
 
@@ -201,7 +201,7 @@ Each tap alternates between these two states, allowing players to take one or mo
 
 ## Saving the Current Session
 
-If you would like to reuse the current session in the future, select **Save Session** from the **Options** menu.
+If you would like to reuse the current session in the future, select **Save Session** from the **Options** menu (⋮).
 
 This saves the current players and game settings as a Session Profile, allowing the same setup to be used again in future sessions.
 
@@ -209,7 +209,7 @@ This saves the current players and game settings as a Session Profile, allowing 
 
 ## What's Next?
 
-The current session settings can be changed at any time using **Session Settings** from the **Options** menu. These changes affect future games generated during the current session only and do not modify the original Session Profile.
+The current session settings can be changed at any time using **Session Settings** from the **Options** menu (⋮). These changes affect future games generated during the current session only and do not modify the original Session Profile.
 
 Continue to **Games Display** to learn how to present court allocations to players, or **Countdown Timer** to learn how to use the optional timer.
 

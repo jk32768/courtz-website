@@ -76,7 +76,13 @@
 
 
 .session-profiles-screenshot {
-    width: 443px;
+    width: 560px;
+    max-width: 100%;
+    height: auto;
+}
+
+.players-groups-screenshot {
+    width: 620px;
     max-width: 100%;
     height: auto;
 }

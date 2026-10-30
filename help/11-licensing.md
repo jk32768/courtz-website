@@ -52,7 +52,7 @@ If the key is invalid or the licence has expired, CourtZ will display a message 
 
 You can also activate your licence before the trial expires:
 
-1. Open the **More** menu.
+1. Open the **Options** menu (⋮).
 2. Select **About**.
 3. Choose the licence activation option.
 4. Enter your licence key and follow the prompts.
@@ -63,7 +63,7 @@ You can also activate your licence before the trial expires:
 
 ## Viewing Licence Details
 
-While you can access the main application, open **About** from the **More** menu to view information about your copy of CourtZ.
+While you can access the main application, open **About** from the **Options** menu (⋮) to view information about your copy of CourtZ.
 
 The About dialog displays:
 

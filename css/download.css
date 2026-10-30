@@ -123,6 +123,23 @@
     box-shadow: 0 12px 30px rgba(0,0,0,.15);
 }
 
+.download-feature-screenshots {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.download-feature-screenshots figure {
+    margin: 0;
+}
+
+.download-feature-screenshots figcaption {
+    margin-top: .75rem;
+    color: #666;
+    font-size: .95rem;
+}
+
 .screenshot {
     display: block;
     width: 100%;

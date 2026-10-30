@@ -8,7 +8,7 @@ After each new round has been generated, the timer counts down the configured ga
 
 ## Starting the Timer
 
-After generating a new round of games and once players have moved to their courts, select **Start Timer**.
+After generating a new round of games and once players have moved to their courts, select the green play icon (**▶**) beside the countdown to start the timer. While it is running, the control changes to a red stop icon (**■**).
 
 The timer uses the game duration configured for the current session.
 
@@ -24,7 +24,7 @@ The timer uses the game duration configured for the current session.
 
 When using a Session Profile, the game duration is normally taken from the Session Profile settings.
 
-If required, you can temporarily override the game duration for the current session using **Options**.
+If required, you can temporarily override the game duration for the current session using **Options** (⋮).
 
 Changing the game duration affects only the current session. The original Session Profile is unchanged and will be used the next time the profile is started.
 
@@ -34,7 +34,7 @@ Changing the game duration affects only the current session. The original Sessio
 
 When the countdown reaches zero, an alarm sounds to indicate that the current round has finished.
 
-Return to the Games page. If any players wish to rest or leave the session, update their availability before selecting the <span class="nav-icon">+</span> button to generate the next round.
+Return to the Games page. If any players wish to rest or leave the session, update their availability before selecting the <span class="nav-icon">+</span> icon to generate the next round.
 
 The Countdown Timer is optional. If games finish before the timer expires, simply generate the next round when everyone is ready.
 

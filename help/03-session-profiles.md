@@ -12,7 +12,7 @@ It does not store copies of player information. Instead, it refers to players in
 
 This means that if you update a player's name or Skill Level on the **Players** page, every Session Profile using that player automatically uses the updated information.
 
-<img src="images/sessions-page.png"
+<img src="images/sessions-page.png?v=3.5.0"
      alt="Session Profiles page"
      width="900">
 
@@ -25,11 +25,13 @@ This means that if you update a player's name or Skill Level on the **Players** 
 To create a Session Profile:
 
 1. Open the **Session Profiles** page.
-2. Select **Add**.
+2. Select the <span class="material-symbol" role="img" aria-label="Add Session Profile">&#xE145;</span> icon beside the Profiles heading.
 3. Enter a name for the Session Profile.
 4. Select the regular players.
 5. Choose the game settings.
 6. Save the Session Profile.
+
+If the player list is long, use its search field or group filter to find players more quickly. Groups are assigned to players on the **Players** page; see [Groups and Clubs](02-players.md#groups-and-clubs).
 
 <img src="images/edit-session-profile.png"
      alt="Session Profile editor"
@@ -48,16 +50,16 @@ To help prevent accidental deletion, Session Profiles are deleted using a two-st
 To delete a Session Profile:
 
 1. Tap and hold the Session Profile.
-2. A red **bin** button appears beside the Session Profile name.
-3. Tap the red **bin** button within **3 seconds**.
+2. A red bin icon <span class="material-symbol delete-symbol" role="img" aria-label="Delete">&#xE872;</span> appears beside the Session Profile name.
+3. Tap the red bin icon within **3 seconds**.
 
 <img src="images/delete-session-profile.png"
      alt="Delete Session Profile"
-     width="220">
+     width="390">
 
-*Tap and hold a Session Profile to reveal the red bin button. Select it within 3 seconds to delete the Session Profile.*
+*Tap and hold a Session Profile to reveal the red bin icon. Select it within 3 seconds to delete the Session Profile.*
 
-If the red **bin** button is not selected within **3 seconds**, it disappears and the Session Profile is not deleted.
+If the red bin icon is not selected within **3 seconds**, it disappears and the Session Profile is not deleted.
 
 Deleting a Session Profile removes only the profile. Players remain in the master player list.
 
@@ -79,7 +81,7 @@ These include:
 
 These settings are used automatically whenever the Session Profile is started.
 
-If required, they can be temporarily changed during a session using **Options**. Temporary changes affect only the current session and do not modify the Session Profile.
+If required, they can be temporarily changed during a session using **Options** (⋮). Temporary changes affect only the current session and do not modify the Session Profile.
 
 ---
 
@@ -101,16 +103,16 @@ To help prevent accidental removal, players are removed from a Session Profile u
 To remove a player:
 
 1. Tap and hold the player's name.
-2. A red **bin** button appears beside the player's name.
-3. Tap the red **bin** button within **3 seconds**.
+2. A red bin icon <span class="material-symbol delete-symbol" role="img" aria-label="Delete">&#xE872;</span> appears beside the player's name.
+3. Tap the red bin icon within **3 seconds**.
 
 <img src="images/delete-player.png"
-     alt="Remove player from Session Profile"
-     width="220">
+     alt="Player label with the red bin icon revealed"
+     width="240">
 
-*Tap and hold a player's name to reveal the red bin button. Select it within 3 seconds to remove the player from the Session Profile.*
+*Tap and hold a player's name to reveal the red bin icon. Select it within 3 seconds to remove the player from the Session Profile.*
 
-If the red **bin** button is not selected within **3 seconds**, it disappears and the player remains in the Session Profile.
+If the red bin icon is not selected within **3 seconds**, it disappears and the player remains in the Session Profile.
 
 Any changes made to a player's details are automatically reflected in every Session Profile that includes that player.
 
@@ -122,13 +124,13 @@ Attendance can be recorded before arriving at the venue.
 
 Each Session Profile displays an Attendance indicator showing the number of players currently marked as attending and the total number of players in the profile (for example, **15/20**).
 
-Select the Attendance button to open the Attendance dialog. Select the players expected to attend, then save the attendance.
+On the Session Profiles page, select the blue attendance icon <span class="material-symbol" role="img" aria-label="Attendance">&#xF233;</span> and count beside a profile to open the Attendance dialog. Select the players expected to attend, then save the attendance.
 
 <img src="images/attendance-popup.png"
      alt="Attendance popup"
      width="400">
 
-*The Attendance dialog is used to select the players expected to attend the session. Greyed-out players are currently marked as absent.*
+*This example shows 16 of the 20 players marked as attending. Greyed-out players are absent; select **Save** to keep the attendance.*
 
 Use Select All or Clear All to quickly mark every player as attending or absent before making individual changes.
 
@@ -182,7 +184,7 @@ Changes are saved immediately and are used the next time the Session Profile is 
 
 Select **Options** (⋮) to access additional actions for the Session Profiles page.
 
-**Delete All Session Profiles** permanently removes every Session Profile.
+**Delete ALL Sessions** permanently removes every Session Profile.
 
 This does not affect the master player list.
 

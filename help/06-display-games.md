@@ -8,13 +8,13 @@ It is designed to be easy to read from a distance, making it ideal for displayin
 
 ## Opening Games Display
 
-From the **Games** page, select the **Games Display** button in the upper-right corner of the Games panel.
+From the **Games** page, select the expand icon <span class="material-symbol" role="img" aria-label="Expand display">&#xf1ce;</span> in the upper-right corner of the Games panel.
 
 <img src="images/display-mode-button.png"
-     alt="Display Mode button"
+     alt="Expand icon in the upper-right corner of the Games panel"
      width="110">
 
-*Select the Games Display button to open the player display.*
+*Select the expand icon to open Games Display.*
 
 The Games Display page shows the current allocation of players to each court.
 
@@ -55,7 +55,7 @@ Before generating the next round you can:
 - mark players who wish to sit out the next round
 - review the Waiting Room
 
-When you are satisfied that the player list is correct, select the <span class="nav-icon">+</span> button to generate the next round.
+When you are satisfied that the player list is correct, select the <span class="nav-icon">+</span> icon to generate the next round.
 
 Games Display can then be reopened to show the updated court allocations to players.
 

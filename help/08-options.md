@@ -1,14 +1,46 @@
 # Options
 
-The **Options** menu provides access to session settings, session management and application information.
+The **Options** menu (⋮) changes depending on which tab is open. The tab-specific actions appear first; **Import Configuration**, **Share Configuration**, **User Guide** and **About** are available from every tab.
 
-Select **Options** (⋮) from the **Games** page to open the Options menu.
+Select **Options** (⋮) on the tab you want to manage. The examples show the different tab-specific actions:
 
-<img src="images/options-menu.png"
-     alt="Options menu"
-     width="200">
+<div class="options-menu-grid">
+  <figure>
+    <figcaption>Games</figcaption>
+    <img src="images/options-menu.png" alt="Games menu with Session Settings and Save Session">
+  </figure>
+  <figure>
+    <figcaption>Players</figcaption>
+    <img src="images/options-menu-players.png" alt="Players menu with Manage Groups and Delete All Players">
+  </figure>
+  <figure>
+    <figcaption>Sessions</figcaption>
+    <img src="images/options-menu-sessions.png" alt="Sessions menu with Delete All Sessions">
+  </figure>
+</div>
 
-*The Options menu provides access to session settings, saving sessions, configuration management and application information.*
+## What the menu items do
+
+**Games**
+
+- **Session Settings** – change settings such as courts, format and game duration for the current session. [Read more](#session-settings).
+- **Save Session** – save the current setup as a Session Profile. [Read more](#save-session).
+
+**Players**
+
+- **Manage Groups** – add, rename or delete player groups. See [Groups and Clubs on the Players page](02-players.md#groups-and-clubs).
+- **Delete ALL Players** – permanently remove every player from the master player list.
+
+**Sessions**
+
+- **Delete ALL Sessions** – permanently delete every Session Profile.
+
+**Available from every tab**
+
+- **Import Configuration** – load players, Session Profiles and settings from a configuration file. [Read more](09-configuration.md#importing-a-configuration).
+- **Share Configuration** – export or share all data or selected Session Profiles. [Read more](09-configuration.md#sharing-a-configuration).
+- **User Guide** – open the CourtZ Help website.
+- **About** – view the app version, club and licence details.
 
 ---
 
@@ -26,7 +58,7 @@ Depending on your session, you can change settings such as:
 - Team Skills
 - mixed games preferences
 
-The updated settings are used in the next round when the <span class="nav-icon">+</span> button is selected.
+The updated settings are used in the next round when the <span class="nav-icon">+</span> icon is selected.
 
 These changes affect only the current session. They do not modify the original Session Profile.
 
@@ -98,9 +130,9 @@ Configuration files use a standard JSON format, making them easier to transfer b
 
 ---
 
-## Online Help
+## User Guide
 
-Select **Online Help** from the **More** menu to open the CourtZ Help website.
+Select **User Guide** from the **Options** menu (⋮) to open the CourtZ Help website.
 
 The online help includes:
 

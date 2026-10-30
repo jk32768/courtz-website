@@ -12,7 +12,7 @@ CourtZ includes a fully functional 30-day trial.
 
 The first time you start CourtZ, you'll be asked for your club name and email address. This starts your trial and personalises your copy of CourtZ.
 
-When you purchase CourtZ, you can activate your licence at any time from **About** on the **More** menu. Your club details, licence status and expiry date (where applicable) are also displayed there.
+When you purchase CourtZ, you can activate your licence at any time from **About** in the **Options** menu (⋮). Your club details, licence status and expiry date (where applicable) are also displayed there.
 
 ## Getting Started
 
