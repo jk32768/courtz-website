@@ -1,3 +1,13 @@
+## Version 3.5.1
+
+Version Code 18
+
+* Fixed freezing and Android "App isn't responding" messages when editing players and managing groups.
+* Improved responsiveness when saving player changes and filtering players by group.
+* Reduced memory use during repeated player edits.
+
+---
+
 ## Version 3.5.0
 
 Version Code 17
