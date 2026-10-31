@@ -1,3 +1,12 @@
+## Version 3.5.2 (Unreleased)
+
+Version Code 19
+
+* Fixed players added during attendance preparation being missing when reopening attendance or starting the session.
+* Added players remain in saved attendance until deselected, without changing the profile's regular player list.
+
+---
+
 ## Version 3.5.1
 
 Version Code 18
