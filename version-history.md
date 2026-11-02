@@ -1,3 +1,12 @@
+## Version 3.5.3
+
+Version Code 20
+
+* Fixed overlapping attendance columns on some Android phones, including the Samsung Galaxy S25, which could hide attendance ticks.
+* Improved attendance layout on narrower screens so player names fit within their columns and attendance controls remain visible.
+
+---
+
 ## Version 3.5.2
 
 Version Code 19
