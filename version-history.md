@@ -1,4 +1,4 @@
-## Version 3.5.2 (Unreleased)
+## Version 3.5.2
 
 Version Code 19
 
