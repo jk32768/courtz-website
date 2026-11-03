@@ -1,3 +1,12 @@
+## Version 3.5.4
+
+Version Code 21
+
+* Enabled Android code shrinking, optimisation and private-member obfuscation for release builds.
+* Updated Android edge-to-edge layout handling, keeping content clear of system bars, display cutouts and the keyboard.
+
+---
+
 ## Version 3.5.3
 
 Version Code 20
