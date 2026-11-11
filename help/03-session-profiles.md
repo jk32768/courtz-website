@@ -12,7 +12,7 @@ It does not store copies of player information. Instead, it refers to players in
 
 This means that if you update a player's name or Skill Level on the **Players** page, every Session Profile using that player automatically uses the updated information.
 
-<img src="images/sessions-page.png?v=3.5.0"
+<img src="../images/SessionProfilesPage.png?v=4.0.0"
      alt="Session Profiles page"
      width="900">
 
@@ -33,7 +33,7 @@ To create a Session Profile:
 
 If the player list is long, use its search field or group filter to find players more quickly. Groups are assigned to players on the **Players** page; see [Groups and Clubs](02-players.md#groups-and-clubs).
 
-<img src="images/edit-session-profile.png"
+<img src="images/edit-session-profile.png?v=4.0.0"
      alt="Session Profile editor"
      width="700">
 
@@ -126,7 +126,7 @@ Each Session Profile displays an Attendance indicator showing the number of play
 
 On the Session Profiles page, select the blue attendance icon <span class="material-symbol" role="img" aria-label="Attendance">&#xF233;</span> and count beside a profile to open the Attendance dialog. Select the players expected to attend, then save the attendance.
 
-<img src="images/attendance-popup.png"
+<img src="../images/Attendance.png?v=4.0.0"
      alt="Attendance popup"
      width="400">
 

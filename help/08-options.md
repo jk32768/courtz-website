@@ -15,7 +15,7 @@ Select **Options** (⋮) on the tab you want to manage. The examples show the di
   </figure>
   <figure>
     <figcaption>Sessions</figcaption>
-    <img src="images/options-menu-sessions.png" alt="Sessions menu with Delete All Sessions">
+    <img src="images/options-menu-sessions.png?v=4.0.0" alt="Sessions menu with separate options to delete all Play Session profiles or all tournaments">
   </figure>
 </div>
 

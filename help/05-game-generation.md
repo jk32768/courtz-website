@@ -12,7 +12,7 @@ When you select **Start Session**, CourtZ automatically generates the first roun
 
 Players are allocated to courts and any remaining players are placed in the Waiting Room.
 
-<img src="images/games-page.png?v=3.5.0"
+<img src="../images/CourtZGamesPage.png?v=4.0.0"
      alt="Games page"
      width="900">
 

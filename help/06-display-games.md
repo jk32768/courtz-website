@@ -18,7 +18,7 @@ From the **Games** page, select the expand icon <span class="material-symbol" ro
 
 The Games Display page shows the current allocation of players to each court.
 
-<img src="images/display-mode.png"
+<img src="../images/DisplayMode.png?v=4.0.0"
      alt="Display Mode"
      width="900">
 

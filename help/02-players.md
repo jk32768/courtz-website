@@ -8,7 +8,7 @@ Because there is only one record for each player, changes such as updating a pla
 
 If you're organising a one-off session, you can also add guest players directly to a session without adding them to the master player list.
 
-<img src="images/players-page.png?v=3.5.0"
+<img src="../images/PlayersPageGroups.png?v=4.0.0"
      alt="Players page with one group selected, showing the active-filter badge and five matching players"
      width="900">
 

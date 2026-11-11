@@ -36,8 +36,8 @@ When adding players, use the search field or group filter in **Select Players** 
 
 When the player list is complete, select **Start Session**.
 
-<img src="images/attendance-start.png"
-     alt="Attendance dialog"
+<img src="images/attendance-start.png?v=4.0.0"
+     alt="Play Session attendance dialog with selected and absent players and the Start Session button"
      width="400">
 
 *Use the Attendance dialog to select the players attending today's session. Greyed-out players are currently marked as absent.*
