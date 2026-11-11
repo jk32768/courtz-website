@@ -1,6 +1,6 @@
 # Session Profiles
 
-Session Profiles define your regular playing sessions, allowing CourtZ to remember the players and game settings used each time the session is run.
+The **Sessions** tab lists **Play Sessions** and **Tournaments**. Play Session profiles remember the players and settings for your club sessions. For competition formats and scoring, see the [Tournament Mode guide](12-tournaments.md).
 
 A Session Profile stores:
 
@@ -184,7 +184,7 @@ Changes are saved immediately and are used the next time the Session Profile is 
 
 Select **Options** (⋮) to access additional actions for the Session Profiles page.
 
-**Delete ALL Sessions** permanently removes every Session Profile.
+**Delete All Play Session Profiles** removes all Play Session profiles and their saved attendance and sessions. **Delete All Tournaments** removes tournament profiles, prepared attendance and saved tournament results.
 
 This does not affect the master player list.
 

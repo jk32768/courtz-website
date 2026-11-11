@@ -1,3 +1,18 @@
+## Version 4.0.0
+
+Version Code 22
+
+CourtZ now supports tournaments alongside regular club sessions.
+
+* Run singles, fixed-pair and team tournaments using round robin, knockout, double elimination, groups then knockout or Swiss. Create fixed pairs manually, at random or by balancing skill levels. Two teams can also play doubles with rotating partners.
+* Confirm attendance and see estimates for games per player, court groups and playing time. Use timed games, winner-only results, single scores or best-of scoring.
+* Record results, resume tournaments and review completed rounds, draws and standings. Zoom and pan the draw, or share the results as an image.
+* Find regular club profiles under **Play Sessions**. CourtZ also has a subtle court-sport background, clearer card headings and outlined Cancel buttons.
+
+[Read the Tournament Mode guide](help/index.html?page=12-tournaments)
+
+---
+
 ## Version 3.5.4
 
 Version Code 21

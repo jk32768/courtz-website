@@ -33,7 +33,8 @@ Select **Options** (⋮) on the tab you want to manage. The examples show the di
 
 **Sessions**
 
-- **Delete ALL Sessions** – permanently delete every Session Profile.
+- **Delete All Play Session Profiles** – permanently delete Play Session profiles and their saved attendance and sessions.
+- **Delete All Tournaments** – permanently delete tournament profiles, prepared attendance and saved tournament results.
 
 **Available from every tab**
 

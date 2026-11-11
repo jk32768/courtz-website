@@ -17,6 +17,10 @@ Whether you're using CourtZ for the first time or looking up a specific feature,
 * [Display Games](06-display-games.md)
 * [Countdown Timer](07-countdown-timer.md)
 
+## Tournaments
+
+* [Set up, run and review a tournament](12-tournaments.md)
+
 ## Application Settings
 
 * [Options](08-options.md)
