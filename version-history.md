@@ -1,3 +1,13 @@
+## Version 4.0.1
+
+Version Code 23
+
+* Replaced font-based icons with bundled vector shapes to address missing symbols or unrelated characters on some Android devices, including Amazon Fire tablets and Samsung phones.
+* Enlarged standard action icons to 24 units and their tap areas to 48 × 48 units for easier use.
+* Adjusted card headers and plus/minus controls to accommodate the larger buttons.
+
+---
+
 ## Version 4.0.0
 
 Version Code 22
