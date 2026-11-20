@@ -92,6 +92,18 @@ It is designed to be displayed on a tablet, television or projector so players c
 
 ---
 
+## Swap Player
+
+A manual adjustment to the latest Play Session round. Drag one player onto another, or choose **Swap player** from the player's menu and tap the other player. A swap exchanges their places on court or in the Waiting Room. Current partners and empty spaces are not swap targets.
+
+---
+
+## Undo
+
+The blue arrow and count at the right of the session selector strip. Each tap reverses one change made during the current round, such as a swap, availability change or session removal. It restores the previous state. Starting a new round clears that round's Undo history.
+
+---
+
 ## Generate Next Round
 
 On the latest round, select the <span class="nav-icon">+</span> icon to generate the next round using the current Session Settings, player availability and Waiting Room.

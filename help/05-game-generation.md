@@ -35,7 +35,7 @@ CourtZ automatically:
 - updates the Waiting Room
 - applies any player availability changes
 
-The court and player allocation is calculated automatically using the current session settings. Players cannot be assigned to courts manually.
+CourtZ calculates the allocation automatically using the current session settings. You can then adjust the latest round by swapping players; see [Manual Round Adjustments](#manual-round-adjustments).
 
 Players can then move to their allocated courts and begin the next round.
 
@@ -53,14 +53,15 @@ Use the navigation controls above the Games panel to move backwards and forwards
 - <span class="nav-icon">&gt;</span> moves forwards through existing rounds.
 - <span class="nav-icon">+</span> generates the next round or regenerates the current round after editing the previous round.
 
-Historical rounds show the original court allocations together with the Waiting Room for that round.
-Historical rounds are read-only.
+Previous rounds show the recorded court allocations and Waiting Room for that round, including any manual adjustments made while it was the latest round. Manual swaps are available only on the latest round.
+
+You can adjust player availability on the immediately previous round as explained below. Earlier rounds are read-only.
 
 ---
 
 ## Editing the Previous Round
 
-Only the immediately previous round can be edited.
+When reviewing previous rounds, only the immediately previous round allows changes to attendance or next-round availability. Its court allocations cannot be rearranged.
 
 This allows you to correct changes that occurred during the current round, such as:
 

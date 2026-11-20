@@ -24,8 +24,8 @@ This means that if you update a player's name or Skill Level on the **Players** 
 
 To create a Session Profile:
 
-1. Open the **Session Profiles** page.
-2. Select the <span class="material-symbol" role="img" aria-label="Add Session Profile">&#xE145;</span> icon beside the Profiles heading.
+1. Open the **Sessions** tab.
+2. Select the <span class="material-symbol" role="img" aria-label="Add Session Profile">&#xE145;</span> icon beside **Play Sessions**.
 3. Enter a name for the Session Profile.
 4. Select the regular players.
 5. Choose the game settings.
@@ -130,7 +130,7 @@ On the Session Profiles page, select the blue attendance icon <span class="mater
      alt="Attendance popup"
      width="400">
 
-*This example shows 16 of the 20 players marked as attending. Greyed-out players are absent; select **Save** to keep the attendance.*
+*This example has all 20 players selected. Greyed-out players would be absent; select **Save** to keep the attendance. A stopwatch indicates an Expected Games value.*
 
 Use Select All or Clear All to quickly mark every player as attending or absent before making individual changes.
 
@@ -176,7 +176,7 @@ For example, you might:
 - adjust the game duration
 - change the preferred game mode
 
-Changes are saved immediately and are used the next time the Session Profile is started.
+Select **Save** in the profile editor to keep your changes. They are used the next time the Session Profile is started. Select **Cancel** to close the editor without saving your edits.
 
 ---
 

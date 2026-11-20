@@ -5,7 +5,9 @@ A CourtZ configuration allows players, Session Profiles and application settings
 A complete configuration includes:
 
 * The master player list
-* All Session Profiles
+* Player groups / clubs
+* All Play Session and tournament profiles
+* Saved tournament progress and results
 * Application settings
 
 You can also share selected Session Profiles without transferring the entire configuration.
@@ -23,9 +25,11 @@ CourtZ opens the available sharing options, allowing you to choose an app or sha
 You can share:
 
 * The complete configuration
-* Selected Session Profiles
+* Selected Play Session or tournament profiles
 
 When selected Session Profiles are shared, the players required by those profiles are included automatically.
+
+Selected tournament profiles include their latest saved progress and results, allowing an event to be resumed or reviewed on another device.
 
 Configuration files can be used to:
 

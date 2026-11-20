@@ -9,10 +9,10 @@ Because there is only one record for each player, changes such as updating a pla
 If you're organising a one-off session, you can also add guest players directly to a session without adding them to the master player list.
 
 <img src="../images/PlayersPageGroups.png?v=4.0.0"
-     alt="Players page with one group selected, showing the active-filter badge and five matching players"
+     alt="Players page showing the master roster, search field and group filter control"
      width="900">
 
-*Selecting a group updates the filter badge and the player count to show the matching players.*
+*The Players page shows the master roster. Use search and the group filter to narrow the list.*
 
 ---
 
@@ -60,6 +60,8 @@ Player cards are colour-coded to provide a quick visual indication of ability:
 ## Editing Players
 
 Player details can be updated whenever required.
+
+Tap a player's name on the **Players** page to open the editor. Make your changes, then select **Save**.
 
 Typical reasons for editing a player include:
 

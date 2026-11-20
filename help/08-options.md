@@ -110,16 +110,16 @@ CourtZ validates imported files and reports an error if the file is not a valid 
 
 CourtZ allows configuration data to be transferred to another device or saved as a backup.
 
-On desktop devices, select **Export Configuration** to save the configuration to a file.
-
-On mobile devices, select **Share Configuration** to share the configuration using the device's standard sharing options.
+Select **Share Configuration** from the Options menu on Windows or Android. Choose **Full Configuration** or **Selected Profiles**, then use your device's available sharing or saving options.
 
 You can export or share:
 
 - the complete configuration
-- selected Session Profiles
+- selected Play Session or tournament profiles
 
 When selected Session Profiles are exported or shared, the players required by those profiles are included automatically.
+
+Tournament profiles also include their latest saved progress and results.
 
 Configuration data can be used to:
 

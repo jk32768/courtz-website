@@ -14,6 +14,8 @@ Whether you're using CourtZ for the first time or looking up a specific feature,
 * [Session Profiles](03-session-profiles.md)
 * [Running a Session](04-running-a-session.md)
 * [Game Generation](05-game-generation.md)
+* [Manually Adjusting a Round](05-game-generation.md#manual-round-adjustments)
+* [Undoing Changes](05-game-generation.md#undoing-changes)
 * [Display Games](06-display-games.md)
 * [Countdown Timer](07-countdown-timer.md)
 

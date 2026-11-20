@@ -16,7 +16,7 @@ When you purchase CourtZ, you can activate your licence at any time from **About
 
 ## Getting Started
 
-CourtZ can be used in two ways.
+Play Sessions can be started in two ways.
 
 ### Using Session Profiles (Recommended)
 
@@ -44,6 +44,14 @@ Players can be:
 At the end of the session, guest players can be discarded or added to your master player list for future use.
 
 Continue to [Running a Session](04-running-a-session.md) to learn more.
+
+### Running a Tournament
+
+For a competition with scoring, draws and standings, create a **Tournament** from the **Sessions** tab. See [Tournament Mode](12-tournaments.md) for setup and scoring instructions.
+
+### Adjusting a Round During Play
+
+In a Play Session, you can swap players by dragging one player onto another or choosing **Swap player** from their menu. The blue **Undo** icon in the session selector strip reverses changes made during the current round. See [Manual Round Adjustments](05-game-generation.md#manual-round-adjustments).
 
 ## Which approach should I choose?
 

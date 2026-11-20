@@ -8,7 +8,11 @@ async function loadPage() {
 
     try {
 
-        const response = await fetch(`${page}.md`);
+        const response = await fetch(`${page}.md`, { cache: "no-cache" });
+
+        if (!response.ok) {
+            throw new Error("Help page could not be loaded.");
+        }
 
         const markdown = await response.text();
 

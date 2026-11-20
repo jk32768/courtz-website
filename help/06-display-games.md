@@ -54,6 +54,7 @@ Before generating the next round you can:
 - add any late-arriving players
 - mark players who wish to sit out the next round
 - review the Waiting Room
+- swap players to adjust the latest round before play starts
 
 When you are satisfied that the player list is correct, select the <span class="nav-icon">+</span> icon to generate the next round.
 
