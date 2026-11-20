@@ -55,7 +55,7 @@
     display: flex;
     flex-direction: column;
     flex: 1;
-    min-width: 280px;
+    min-width: min(280px, 100%);
     max-width: 420px;
     padding: 2rem;
     text-align: center;
@@ -64,6 +64,53 @@
     background: white;
     box-shadow: 0 4px 12px rgba(0,0,0,.08);
     transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.public-release {
+    max-width: none;
+    border-color: #0ea5a4;
+    margin-top: 2rem;
+}
+
+.release-label {
+    align-self: center;
+    padding: .25rem .75rem;
+    margin-bottom: 1rem;
+    border-radius: 999px;
+    background: #e0f2f1;
+    color: #116461;
+    font-size: .85rem;
+    font-weight: 700;
+}
+
+.test-release-label {
+    background: #fff3db;
+    color: #805500;
+}
+
+.test-download-heading {
+    margin-top: 3rem;
+}
+
+.tester-access {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+}
+
+.tester-access h2 {
+    margin-top: 0;
+    font-size: 1.25rem;
+}
+
+.tester-access a,
+.section-intro a,
+.help-text a {
+    color: #1767c7;
+    text-decoration: underline;
+    text-underline-offset: .15em;
 }
 
     .download-card:hover {

@@ -33,7 +33,7 @@
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/Problems.css">
     <link rel="stylesheet" href="css/Footer.css">
-    <link rel="stylesheet" href="css/download.css">
+    <link rel="stylesheet" href="css/download.css?v=4.1.1-channels">
 
 </head>
 
@@ -89,7 +89,7 @@
 
                         <div>✓ Manage attendance and waiting players</div>
 
-                        <div>✓ Run tournaments and share results</div>
+                        <div>✓ Try tournaments and share results in the latest test versions</div>
 
                     </div>
 
@@ -97,14 +97,36 @@
 
                 <div class="section-gap"></div>
 
-                <h2>Choose Your Platform</h2>
+                <h2>Public Android Release</h2>
 
                 <p class="section-intro">
-                    Download the version that best suits your device.
+                    Get the public release from Google Play for regular club Play Sessions.
+                </p>
+
+                <div class="download-card public-release">
+                    <span class="release-label">Public release</span>
+                    <h3>Android on Google Play</h3>
+                    <p><strong>Version 3.5.4</strong> · Android 9 or later</p>
+                    <p>Organise Play Sessions, prepare attendance and generate balanced games.</p>
+                    <p class="trial">✓ Free 30-day trial</p>
+                    <a href="https://play.google.com/store/apps/details?id=uk.co.courtzapp"
+                       class="download-button"
+                       onclick="gtag('event', 'google_play_visit', {platform: 'Android'});">
+                        Get CourtZ on Google Play
+                    </a>
+                    <p class="download-note">Tournament mode is available in the newer test versions below.</p>
+                </div>
+
+                <h2 class="test-download-heading">Latest Test Versions</h2>
+
+                <p class="section-intro">
+                    Try the latest features before they reach the public Google Play release.
+                    These direct website downloads are <strong>test versions</strong> for Android and Windows,
+                    including Tournament mode and manual adjustment of Play Session rounds.
                 </p>
 
                 <p class="version">
-                    Latest version 4.1.1<br>
+                    Latest direct-download test version: <strong>4.1.1</strong><br>
                     Released 20 November 2026
                 </p>
 
@@ -113,62 +135,54 @@
                 </p>
 
                 <div class="download-cards">
-
                     <div class="download-card">
-
-                        <h3>🤖 Android</h3>
-
+                        <span class="release-label test-release-label">Test version 4.1.1</span>
+                        <h3>Android APK</h3>
                         <p>Android 9 or later</p>
-
-                        <p class="trial">
-                            ✓ Free 30-day trial
-                        </p>
-
+                        <p>Install the latest test version directly from this website.</p>
+                        <p class="trial">✓ Free 30-day trial</p>
                         <a href="downloads/CourtZ-Android.apk?v=4.1.1"
                            class="download-button"
-                           onclick="gtag('event', 'download', {
-                               file_name: 'CourtZ-Android.apk',
-                               platform: 'Android'
-                           });">
-                            Download for Android
+                           onclick="gtag('event', 'download', {file_name: 'CourtZ-Android.apk', platform: 'Android'});">
+                            Download Android Test Version
                         </a>
-
                     </div>
 
                     <div class="download-card">
-
-                        <h3>🪟 Windows</h3>
-
+                        <span class="release-label test-release-label">Test version 4.1.1</span>
+                        <h3>Windows</h3>
                         <p>Windows 10 or later (x64)</p>
-
-                        <p class="trial">
-                            ✓ Free 30-day trial
-                        </p>
-
+                        <p>Install the latest test version directly from this website.</p>
+                        <p class="trial">✓ Free 30-day trial</p>
                         <a href="downloads/CourtZ-Windows-Setup.exe?v=4.1.1"
                            class="download-button"
-                           onclick="gtag('event', 'download', {
-                               file_name: 'CourtZ-Windows-Setup.exe',
-                               platform: 'Windows'
-                           });">
-                            Download for Windows
+                           onclick="gtag('event', 'download', {file_name: 'CourtZ-Windows-Setup.exe', platform: 'Windows'});">
+                            Download Windows Test Version
                         </a>
-
                         <p class="download-note">
                             Includes a standard Windows Setup program and the required .NET and Windows App SDK runtimes.
                         </p>
-
                     </div>
-
                 </div>
+
+                <aside class="tester-access" aria-labelledby="tester-heading">
+                    <h2 id="tester-heading">Already an Invited Tester?</h2>
+                    <p>
+                        Google Play closed testing is available only to testers chosen by CourtZ.
+                        If you have already been invited, open the tester link using the Google account
+                        registered for testing to see the latest test version available to you.
+                    </p>
+                    <p><a href="https://play.google.com/apps/testing/uk.co.courtzapp">Open the CourtZ Google Play tester link →</a></p>
+                    <p>Opening this link does not give access unless your account has been added to the tester group.</p>
+                </aside>
 
                 <hr class="section-divider">
 
-                <h2>Installing on Android</h2>
+                <h2>Installing the Android Test Version</h2>
 
                 <p class="section-intro">
-                    CourtZ is distributed directly from the CourtZ website as a standard Android
-                    application (APK).
+                    The public release installs through Google Play. For the direct-download test version,
+                    follow these APK installation steps.
                 </p>
 
                 <div class="android-install">
@@ -176,7 +190,7 @@
                     <div class="step">
                         <div class="step-number">1</div>
                         <div class="step-text">
-                            Tap <strong>Download for Android</strong>.
+                            Tap <strong>Download Android Test Version</strong>.
                         </div>
                     </div>
 
@@ -205,10 +219,10 @@
 
                 <hr class="section-divider">
 
-                <h2>Installing on Windows</h2>
+                <h2>Installing the Windows Test Version</h2>
 
                 <p class="section-intro">
-                    Installing CourtZ on Windows only takes a minute or two.
+                    Use the Windows test-version download above, then follow these steps.
                 </p>
 
                 <div class="getting-started">
@@ -250,14 +264,14 @@
                     On first launch, enter your club name and email address to begin your free 30-day trial.
                 </p>
                 <p class="help-text">
-                    Because CourtZ is downloaded directly from the CourtZ website rather than
+                    When installing the Android test APK directly from this website rather than
                     Google Play, Android may ask you to confirm that you wish to install it.
                     Simply follow the on-screen instructions and then continue with the installation.
                 </p>
 
                 <p class="help-text">
                     Need more help?
-                    <a href="help/11-android-installation.html">Read the Android Installation Guide.</a>
+                    <a href="help/">Read the CourtZ User Guide.</a>
                 </p>
 
                 <hr class="section-divider">
@@ -281,7 +295,7 @@
                 <h2>See CourtZ in Action</h2>
 
                 <p class="section-intro">
-                    Everything you need to organise a successful club session.
+                    These screenshots show the latest test version, including features not yet in the public Google Play release.
                 </p>
 
                 <div class="screenshot-section">
