@@ -166,6 +166,12 @@ Tap a player to open the player menu:
 
 To reverse a rest request, choose **Play next round**. To reverse a departure request, choose **Carry on playing**.
 
+<img src="images/on-court-player-actions.png?v=4.1.1"
+     alt="On-court player James Reed's menu with Swap player, Rest next round, Leave after this round and Cancel"
+     width="500">
+
+*A player on court finishes the current game before resting or leaving. Use Swap player to exchange positions with an eligible player.*
+
 <img src="images/player-rest.png"
      alt="Player marked to rest"
      width="220">
