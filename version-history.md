@@ -1,3 +1,13 @@
+## Version 4.1.1
+
+Version Code 25
+
+* Select players using separate Available and Added lists, with a short animation showing each move. Review additions before selecting Done, or cancel without applying them.
+* Consistent tap menus for editing and deleting players, Play Sessions and tournaments, preparing attendance, and removing players from profiles.
+* Improved phone layouts for the player picker, session editor and Sessions page, keeping controls and player labels visible.
+
+---
+
 ## Version 4.1.0
 
 Version Code 24
