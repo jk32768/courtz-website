@@ -7,7 +7,7 @@ Select **Options** (⋮) on the tab you want to manage. The examples show the di
 <div class="options-menu-grid">
   <figure>
     <figcaption>Games</figcaption>
-    <img src="images/options-menu.png" alt="Games menu with Session Settings and Save Session">
+    <img src="images/options-menu.png?v=4.1.1" alt="Games Options menu with Session Settings, Save Session, Import Configuration, Share Configuration, User Guide and About">
   </figure>
   <figure>
     <figcaption>Players</figcaption>
