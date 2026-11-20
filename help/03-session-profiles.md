@@ -106,6 +106,12 @@ To remove a player:
 
 Removing a player from a profile does not delete their master player record or remove them from other profiles.
 
+<img src="images/profile-player-actions.png?v=4.1.1"
+     alt="Connor Bailey's menu in the session profile editor, showing Remove and Cancel"
+     width="274">
+
+*Choose Remove to take the player out of this profile, then Save in the profile editor to keep the change.*
+
 Any changes made to a player's details are automatically reflected in every Session Profile that includes that player.
 
 ---
