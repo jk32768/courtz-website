@@ -1,3 +1,15 @@
+## Version 4.1.0
+
+Version Code 24
+
+* Manually adjust Play Session rounds by dragging players to swap them, or using the player menu.
+* Undo changes made during the current round.
+* Clearer options for resting next round and leaving a session.
+* Scheduling history reflects manual adjustments when creating the next round.
+* Improved timer icons and layout.
+
+---
+
 ## Version 4.0.1
 
 Version Code 23

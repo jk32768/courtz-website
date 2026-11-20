@@ -132,7 +132,7 @@ If there are more players than available court spaces, some players remain in th
 
 ## Players Joining or Leaving
 
-While viewing the latest or previous round, players can be added to or removed from the session.
+You can add players during a session and adjust availability before generating the next round. Immediate removal from the Waiting Room is available while viewing the latest round.
 
 For example, you can:
 
@@ -146,19 +146,11 @@ Any changes are automatically taken into account the next time the <span class="
 
 ### Removing a Player from the Waiting Room
 
-To help prevent accidental removal, players are removed from the Waiting Room using a two-step process.
+1. Tap the player's name in the Waiting Room.
+2. Choose **Leave session**.
+3. Confirm the removal.
 
-1. Tap and hold the player's name.
-2. A red bin icon <span class="material-symbol delete-symbol" role="img" aria-label="Delete">&#xE872;</span> appears within the player label.
-3. Tap the red bin icon within **3 seconds** to remove the player from the current session.
-
-<img src="images/delete-player.png"
-     alt="Delete player from Waiting Room"
-     width="220">
-
-*Tap and hold a player in the Waiting Room to reveal the red bin icon. Select it within 3 seconds to remove the player from the current session.*
-
-If the red bin icon is not selected within 3 seconds, it disappears and the player remains in the session.
+Players on court can choose **Leave after this round**, allowing them to finish their current game without leaving an empty court position.
 
 Removing a player from the Waiting Room affects only the current session. The player remains in the master player list and in any Session Profiles to which they belong.
 
@@ -170,13 +162,12 @@ Before generating the next round, you can indicate whether players wish to conti
 
 ### Players currently on court
 
-Tap a player to cycle through three availability states:
+Tap a player to open the player menu:
 
-- **Normal** – the player is available for selection in the next round.
-- **Rest** – the player completes the current game, then sits out the next round.
-- **Exit** – the player completes the current game, then leaves the session and is not included in subsequent rounds.
+- **Rest next round** – the player completes the current game, then sits out the next round.
+- **Leave after this round** – the player completes the current game, then leaves the session and is not included in subsequent rounds.
 
-Tap the player again to return to the normal playing state.
+To reverse a rest request, choose **Play next round**. To reverse a departure request, choose **Carry on playing**.
 
 <img src="images/player-rest.png"
      alt="Player marked to rest"
@@ -190,12 +181,35 @@ Tap the player again to return to the normal playing state.
 
 ### Players in the Waiting Room
 
-Players in the Waiting Room can also be tapped to control their availability.
+Tap a player in the Waiting Room to open their menu.
 
-- **Normal** – the player is available for selection in the next round.
-- **Rest** – the player skips the next round and remains in the Waiting Room.
+- **Rest next round** – the player skips the next round and remains in the Waiting Room.
+- **Play next round** – reverses a rest request so the player is available for selection.
+- **Leave session** – removes the player from the current session after confirmation.
 
-Each tap alternates between these two states, allowing players to take one or more consecutive rounds off before returning to play.
+The menu shows the options applicable to the player's current status.
+
+---
+
+## Manual Round Adjustments
+
+In a Play Session, you can adjust the latest round by dragging one player onto another to swap them. You can swap with an opponent, someone on another court, or someone in the Waiting Room. A player's current partner and empty spaces are not swap targets.
+
+Alternatively, tap the player, choose **Swap player**, then tap the other player. Select **Cancel swap** if you change your mind.
+
+To reach players off screen while dragging on Android or Windows, hold near the top or bottom edge of the scrolling area.
+
+If a player marked **Rest next round** is swapped off court into the Waiting Room, their rest request clears and they are eligible for the next round. If they were marked **Leave after this round**, they leave the session immediately instead. The incoming player fills their court position.
+
+CourtZ uses the final adjusted round when updating partnership, opponent and sit-out history for the next round. Manual swapping is available for Play Sessions, not tournament draws.
+
+### Undoing Changes
+
+The blue **Undo** icon and count appear at the right of the session selector strip when there are changes to undo. This strip stays visible while you scroll through the courts.
+
+Each tap reverses one swap, status change or removal. A status Undo restores the previous status. Undoing a swap that removed a departing player also restores that player's attendance and leave flag.
+
+You can reverse successive changes throughout the current round. Starting a new round clears its Undo history.
 
 ---
 

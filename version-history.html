@@ -147,7 +147,7 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
     <script>
-        fetch("version-history.md")
+        fetch("version-history.md?v=4.1.0")
             .then(response => {
                 if (!response.ok) {
                     throw new Error("Unable to load version history.");
