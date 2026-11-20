@@ -11,6 +11,7 @@ Whether you're using CourtZ for the first time or looking up a specific feature,
 ## Managing Your Session
 
 * [Players](02-players.md)
+* [Selecting Players](02-players.md#selecting-players)
 * [Session Profiles](03-session-profiles.md)
 * [Running a Session](04-running-a-session.md)
 * [Game Generation](05-game-generation.md)

@@ -20,7 +20,7 @@ Each Session Profile already contains:
 - the players who normally attend
 - the game settings for the session
 
-To start a session, open the required **Session Profile**.
+To start a session, open the selector on the **Games** page and choose the required **Session Profile**. To prepare attendance in advance without starting play, tap the profile on **Sessions** and choose **Prepare Attendance**.
 
 The **Attendance** dialog is displayed.
 
@@ -32,7 +32,7 @@ Use the Attendance dialog to prepare today's session by:
 - adding guest players
 - optionally setting the Expected Games for attending players
 
-When adding players, use the search field or group filter in **Select Players** to narrow the list. A player can belong to more than one group; see [Groups and Clubs](02-players.md#groups-and-clubs).
+When adding existing players, tap names in **Available** to move them to **Added**, then select **Done** to include them in attendance. Tap an added player to return them, or select **Cancel** to discard the additions. Search and group filters affect Available only; see [Selecting Players](02-players.md#selecting-players).
 
 When the player list is complete, select **Start Session**.
 

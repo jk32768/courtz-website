@@ -61,7 +61,7 @@ Player cards are colour-coded to provide a quick visual indication of ability:
 
 Player details can be updated whenever required.
 
-Tap a player's name on the **Players** page to open the editor. Make your changes, then select **Save**.
+Tap a player's name on the **Players** page and choose **Edit**. Make your changes, then select **Save**. The same player menu also offers **Delete**.
 
 Typical reasons for editing a player include:
 
@@ -93,35 +93,30 @@ Renaming a group updates the membership for every player assigned to it. Deletin
 
 A player who belongs to multiple selected groups appears only once in the filtered results.
 
-### Filtering in the Select Players popup
+## Selecting Players
 
-When adding players to a session or the Waiting Room, select the filter icon <span class="material-symbol" role="img" aria-label="Filter">&#xef4f;</span> beside the search field to show the group options. The search field and group filters work together, so you can narrow the list by name and by group. Select one or more groups to include players from any of them, then tap the player cards to add players. The popup stays open while you make several selections; select **Done** when you have finished. The two columns continue to separate male and female players.
+The **Select Players** popup is used when adding existing players to a profile, the Waiting Room, attendance or a tournament roster.
 
-<img src="images/select-players-groups.png?v=3.5.0"
-     alt="Select Players popup with group filters and separate male and female columns"
-     width="500">
+- **Available** shows players you can add.
+- **Added** shows only the players selected during this visit to the popup, with a count beside its heading.
 
-*Use the filter icon to show group choices. The player list keeps male and female players in separate columns.*
+Tap an available player to move them into **Added**. A short animation shows the movement. Tap an added player to return them to **Available**. Both lists keep separate male and female columns, with names in alphabetical order. The lists sit beside each other on larger screens and stack vertically on phones.
+
+Search and group filters apply only to **Available**, so your additions remain visible while you search for someone else. Select the filter icon <span class="material-symbol" role="img" aria-label="Filter">&#xef4f;</span> beside the search field to show group choices. Select one or more groups to include players belonging to any of them.
+
+Select **Done** to apply the additions, or **Cancel** to discard them. When editing a profile, select **Save** in the profile editor afterwards to keep its updated roster.
 
 ---
 
 ## Deleting Players
 
-To help prevent accidental deletion, players are deleted using a two-step process.
-
 To delete a player:
 
-1. Tap and hold the player's name.
-2. A red bin icon <span class="material-symbol delete-symbol" role="img" aria-label="Delete">&#xE872;</span> appears beside the player's name.
-3. Tap the red bin icon within **3 seconds**.
+1. Open the **Players** page and tap the player's name.
+2. Choose **Delete** from the menu.
+3. Confirm the permanent deletion, or select **Cancel** to keep the player.
 
-<img src="images/delete-player.png"
-     alt="Player label with the red bin icon revealed"
-     width="240">
-
-*Tap and hold a player's name to reveal the red bin icon. Select it within 3 seconds to delete the player.*
-
-If the red bin icon is not selected within **3 seconds**, it disappears and the player is not deleted.
+To remove someone only from a profile or the current session, use **Remove** in the profile editor or **Leave session** in the Waiting Room instead. These actions keep the master player record.
 
 If the player belongs to one or more Session Profiles, CourtZ automatically removes the player from those profiles.
 

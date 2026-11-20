@@ -143,6 +143,8 @@ For example, you can:
 
 Any changes are automatically taken into account the next time the <span class="nav-icon">+</span> icon is selected.
 
+When adding existing players, use **Select Players** to move names from **Available** into **Added**. Select **Done** to add them to the Waiting Room, or **Cancel** to discard the selection. See [Selecting Players](02-players.md#selecting-players).
+
 ---
 
 ### Removing a Player from the Waiting Room

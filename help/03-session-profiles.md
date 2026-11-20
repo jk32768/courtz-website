@@ -31,7 +31,7 @@ To create a Session Profile:
 5. Choose the game settings.
 6. Save the Session Profile.
 
-If the player list is long, use its search field or group filter to find players more quickly. Groups are assigned to players on the **Players** page; see [Groups and Clubs](02-players.md#groups-and-clubs).
+Select the add-player icon in the profile editor to open **Select Players**. Tap players in **Available** to move them into **Added**, then select **Done**. You can tap an added player to return them before confirming. Search and group filters apply only to Available; see [Selecting Players](02-players.md#selecting-players).
 
 <img src="images/edit-session-profile.png?v=4.0.0"
      alt="Session Profile editor"
@@ -45,23 +45,15 @@ The Session Profile is now available whenever you start a new session.
 
 ## Deleting a Session Profile
 
-To help prevent accidental deletion, Session Profiles are deleted using a two-step process.
-
 To delete a Session Profile:
 
-1. Tap and hold the Session Profile.
-2. A red bin icon <span class="material-symbol delete-symbol" role="img" aria-label="Delete">&#xE872;</span> appears beside the Session Profile name.
-3. Tap the red bin icon within **3 seconds**.
-
-<img src="images/delete-session-profile.png"
-     alt="Delete Session Profile"
-     width="390">
-
-*Tap and hold a Session Profile to reveal the red bin icon. Select it within 3 seconds to delete the Session Profile.*
-
-If the red bin icon is not selected within **3 seconds**, it disappears and the Session Profile is not deleted.
+1. Open the **Sessions** tab and tap the profile.
+2. Choose **Delete** from the menu.
+3. Confirm deletion, or select **Cancel** to keep the profile.
 
 Deleting a Session Profile removes only the profile. Players remain in the master player list.
+
+The same tap menu offers **Edit** and **Prepare Attendance** for both Play Session and tournament profiles.
 
 ---
 
@@ -98,21 +90,13 @@ Player details such as names and Skill Levels are managed on the **Players** pag
 
 ### Removing Players from a Session Profile
 
-To help prevent accidental removal, players are removed from a Session Profile using a two-step process.
-
 To remove a player:
 
-1. Tap and hold the player's name.
-2. A red bin icon <span class="material-symbol delete-symbol" role="img" aria-label="Delete">&#xE872;</span> appears beside the player's name.
-3. Tap the red bin icon within **3 seconds**.
+1. Tap the profile on **Sessions** and choose **Edit**.
+2. Tap the player's name inside the editor and choose **Remove**.
+3. Select **Save** to keep the updated profile, or **Cancel** to discard your profile edits.
 
-<img src="images/delete-player.png"
-     alt="Player label with the red bin icon revealed"
-     width="240">
-
-*Tap and hold a player's name to reveal the red bin icon. Select it within 3 seconds to remove the player from the Session Profile.*
-
-If the red bin icon is not selected within **3 seconds**, it disappears and the player remains in the Session Profile.
+Removing a player from a profile does not delete their master player record or remove them from other profiles.
 
 Any changes made to a player's details are automatically reflected in every Session Profile that includes that player.
 
@@ -124,7 +108,7 @@ Attendance can be recorded before arriving at the venue.
 
 Each Session Profile displays an Attendance indicator showing the number of players currently marked as attending and the total number of players in the profile (for example, **15/20**).
 
-On the Session Profiles page, select the blue attendance icon <span class="material-symbol" role="img" aria-label="Attendance">&#xF233;</span> and count beside a profile to open the Attendance dialog. Select the players expected to attend, then save the attendance.
+On the **Sessions** tab, tap a profile and choose **Prepare Attendance** to open the Attendance dialog. The blue attendance icon <span class="material-symbol" role="img" aria-label="Attendance">&#xF233;</span> and count show how many players are selected. Select the players expected to attend, then save the attendance.
 
 <img src="../images/Attendance.png?v=4.0.0"
      alt="Attendance popup"
@@ -167,6 +151,8 @@ CourtZ automatically generates the first round of games using the Session Profil
 ## Updating a Session Profile
 
 Session Profiles can be edited whenever your regular session changes.
+
+Tap the profile on **Sessions** and choose **Edit**.
 
 For example, you might:
 

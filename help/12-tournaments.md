@@ -9,14 +9,22 @@
 
 ![Rotating-pairs tournament profile showing scoring, estimated court time and team rosters](../images/TournamentSetup.png)
 
+## Edit profiles and entrants
+
+On **Sessions**, tap a tournament profile to choose **Edit**, **Delete** or **Prepare Attendance**. Deleting a profile requires confirmation and leaves the master player records intact.
+
+When adding existing players, use the [Select Players popup](02-players.md#selecting-players): move names from **Available** into **Added**, then choose **Done**. A pair accepts only enough players to fill its two places. Tap a pair or team heading in the roster to choose **Edit** or **Remove**; tap a player inside its editor to choose **Remove**. Select **Save** in the profile editor to keep roster changes.
+
 ## Start and score the tournament
 
 1. In **Games**, open the session selector and choose the tournament profile.
-2. Confirm attendance and select **Start tournament**. You can also prepare attendance in advance from **Sessions**.
+2. Confirm attendance and select **Start tournament**. To prepare attendance in advance, tap the profile on **Sessions** and choose **Prepare Attendance**.
 3. Use the round arrows to move between rounds or court groups. Tap **Result** under a court to enter the outcome. Tap a recorded score to correct it.
 4. Use the information icon beside the tournament name to check the rules and scheduled rounds.
 
 Changing an earlier result can affect later rounds in a format where the draw depends on results. CourtZ asks for confirmation before discarding affected results.
+
+Player swapping by dragging is available in Play Sessions only. During a tournament, use the available player replacement or withdrawal actions instead. In team events, the pencil beside an encounter lets you review or change unplayed line-ups.
 
 ![Tournament attendance with the playing-time estimate, team roster and Start tournament button](../images/TournamentAttendance.png)
 
