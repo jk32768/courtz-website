@@ -79,7 +79,7 @@ Choose the required game settings, then add players to the Waiting Room:
 - Select the add-player icon <span class="material-symbol" role="img" aria-label="Add players">&#xe7fe;</span> to choose players from the master list.
 - Select **+Guest** to add a guest player for this session.
 
-When everyone has been added, select the <span class="nav-icon">+</span> icon to generate the first round of games.
+When everyone has been added, select the forward arrow <span class="nav-icon">&gt;</span> beside **Round** to generate the first round of games. On the latest round, the control changes to <span class="nav-icon">+</span> for generating the next round.
 
 CourtZ creates today's session and allocates players to the available courts. If there are more players than available court spaces, the remaining players stay in the Waiting Room.
 
@@ -87,8 +87,8 @@ When a session is started without using a Session Profile, the session name disp
 
 Players can be added directly to the Waiting Room from the master player list or as guest players before play begins.
 
-<img src="images/unsaved-session.png"
-     alt="Session started without a Session Profile"
+<img src="images/unsaved-session.png?v=4.1.1"
+     alt="Games page with no profile selected, six players in the Waiting Room, empty courts and the forward arrow to generate the first round"
      width="900">
 
 *A session started without using a Session Profile. Players can be added to the Waiting Room before the first games are generated.*
