@@ -64,6 +64,44 @@
         box-shadow: 0 6px 20px rgba(0, 0, 0, .15);
     }
 
+    .help-content h2,
+    .help-content h3 {
+        scroll-margin-top: 180px;
+    }
+
+    .help-content table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0;
+        font-size: .95em;
+        overflow-wrap: anywhere;
+    }
+
+    .help-content th,
+    .help-content td {
+        padding: .75rem;
+        border: 1px solid #dbe2ea;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    .help-content th {
+        background: #eef4f8;
+        color: #0f172a;
+    }
+
+    @media (max-width: 600px) {
+        .help-content th,
+        .help-content td {
+            padding: .5rem;
+        }
+
+        .help-content h2,
+        .help-content h3 {
+            scroll-margin-top: 220px;
+        }
+    }
+
     .help-content .options-menu-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));

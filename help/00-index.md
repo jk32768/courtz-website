@@ -22,7 +22,12 @@ Whether you're using CourtZ for the first time or looking up a specific feature,
 
 ## Tournaments
 
-* [Set up, run and review a tournament](12-tournaments.md)
+* [Tournament guide and quick start](12-tournaments.md)
+* [Choose a tournament format](12-tournaments.md#choose-a-tournament-format)
+* [Create fixed pairs](12-tournaments.md#create-fixed-pairs)
+* [Team events and rotating pairs](12-tournaments.md#set-up-team-events)
+* [Scoring, time limits and standings](12-tournaments.md#scoring-and-time-limits)
+* [Example: 32 players, eight courts, two hours](12-tournaments.md#example-32-players-eight-courts-two-hours)
 
 ## Application Settings
 
