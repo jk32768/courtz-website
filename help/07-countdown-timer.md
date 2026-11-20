@@ -14,11 +14,11 @@ The timer uses the game duration configured for the current session.
 
 Select the red stop icon to pause the countdown. Select the green play icon to resume from the remaining time.
 
-<img src="images/countdown-timer.png"
-     alt="Countdown Timer"
-     width="900">
+<img src="images/countdown-timer.png?v=4.1.1"
+     alt="Running countdown at 14 minutes 55 seconds beside the red stop button"
+     width="136">
 
-*The Countdown Timer counts down the remaining game time. Players can also be marked to rest after the current game or leave the session before the next round is generated.*
+*The red stop button pauses the countdown. When paused, it changes to a green play button to resume.*
 
 ---
 
