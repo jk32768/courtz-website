@@ -106,6 +106,12 @@ Search and group filters apply only to **Available**, so your additions remain v
 
 Select **Done** to apply the additions, or **Cancel** to discard them. When editing a profile, select **Save** in the profile editor afterwards to keep its updated roster.
 
+<img src="images/select-players-groups.png?v=4.1.1"
+     alt="Select Players showing the Kitchen Crew filter, three Available players, two Added players, male and female columns, and Cancel and Done buttons"
+     width="900">
+
+*Two players have been moved into Added. The group filter narrows Available while the additions remain visible for review.*
+
 ---
 
 ## Deleting Players
