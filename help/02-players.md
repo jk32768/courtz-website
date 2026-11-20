@@ -79,11 +79,11 @@ Because Session Profiles refer to the master player list, any changes you make a
 
 The editor shows the player's current group memberships. Select or clear groups, then save the changes.
 
-<img src="images/group-assignment.png?v=3.5.0"
-     alt="Edit Player dialog with the player assigned to two groups"
+<img src="images/group-assignment.png?v=4.1.1"
+     alt="Edit Player dialog for Alex Powell, with Kitchen Crew selected, Shuttle Sparks unselected, and Cancel and Save buttons"
      width="500">
 
-*A player can be assigned to more than one group or club.*
+*Kitchen Crew is selected for this player. Select additional groups to assign more than one membership, then choose Save.*
 
 ---
 
