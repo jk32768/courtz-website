@@ -1,3 +1,12 @@
+## Version 4.1.2
+
+Version Code 26
+
+* Fixed selected-profile sharing and importing to include one-off attendees, prepared tournament replacements and players added during a tournament.
+* Improved configuration import validation so malformed player or profile lists are rejected without changing existing data.
+
+---
+
 ## Version 4.1.1
 
 Version Code 25

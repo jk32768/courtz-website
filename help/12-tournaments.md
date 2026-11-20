@@ -2,7 +2,7 @@
 
 Tournament mode runs competitions with recorded results, standings and draws. You can run singles, fixed-pair doubles or team events, save progress and return to an event later.
 
-Tournament mode is available from **CourtZ 4.0.0** onwards. This guide describes **4.1.1**. Earlier versions, including **3.5.4**, support Play Sessions without tournament mode. See [Download CourtZ](../download.html) for the available versions.
+Tournament mode is available from **CourtZ 4.0.0** onwards. This guide describes **4.1.2**. Earlier versions, including **3.5.4**, support Play Sessions without tournament mode. See [Download CourtZ](../download.html) for the available versions.
 
 ## In this guide
 
