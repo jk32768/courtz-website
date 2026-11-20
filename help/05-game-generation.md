@@ -186,6 +186,12 @@ Tap a player in the Waiting Room to open their menu.
 
 The menu shows the options applicable to the player's current status.
 
+<img src="images/waiting-player-actions.png?v=4.1.1"
+     alt="Waiting Room player Oscar Bailey's menu with Swap player, Rest next round, Leave session and Cancel"
+     width="500">
+
+*A Waiting Room player can swap with someone on court, request a rest, or leave the session after confirmation.*
+
 ---
 
 ## Manual Round Adjustments
