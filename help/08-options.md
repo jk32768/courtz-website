@@ -11,7 +11,7 @@ Select **Options** (⋮) on the tab you want to manage. The examples show the di
   </figure>
   <figure>
     <figcaption>Players</figcaption>
-    <img src="images/options-menu-players.png" alt="Players menu with Manage Groups and Delete All Players">
+    <img src="images/options-menu-players.png?v=4.1.1" alt="Players Options menu with Manage Groups, Delete ALL Players, Import Configuration, Share Configuration, User Guide and About">
   </figure>
   <figure>
     <figcaption>Sessions</figcaption>
