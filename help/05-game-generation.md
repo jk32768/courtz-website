@@ -12,11 +12,11 @@ When you select **Start Session**, CourtZ automatically generates the first roun
 
 Players are allocated to courts and any remaining players are placed in the Waiting Room.
 
-<img src="../images/CourtZGamesPage.png?v=4.0.0"
+<img src="../images/CourtZGamesPage.png?v=4.1.1"
      alt="Games page"
      width="900">
 
-*The Games page showing players on court, the Waiting Room and the controls used to manage the session.*
+*The Games page showing four waiting players, four courts, the countdown timer and one change available to Undo at the right of the session selector strip.*
 
 Players can now move to their allocated courts and begin play.
 
@@ -122,12 +122,6 @@ The Waiting Room is managed automatically throughout the session.
 As each new round is generated, players move between the courts and the Waiting Room.
 
 If there are more players than available court spaces, some players remain in the Waiting Room until they can be included in a later round.
-
-<img src="images/waiting-room.png"
-     alt="Waiting Room"
-     width="900">
-
-*Players waiting for their next game remain in the Waiting Room until CourtZ allocates them to an available court.*
 
 ---
 

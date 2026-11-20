@@ -113,8 +113,8 @@ Players are placed in the Waiting Room automatically when:
 
 CourtZ uses the Waiting Room whenever new games are generated, automatically moving waiting players onto available courts.
 
-<img src="images/waiting-room.png"
-     alt="Waiting Room"
+<img src="../images/CourtZGamesPage.png?v=4.1.1"
+     alt="Play Session with four players in the Waiting Room above four occupied courts"
      width="900">
 
 *The Waiting Room contains players waiting for their next game. As courts become available, CourtZ automatically selects players from the Waiting Room when generating the next round.*
