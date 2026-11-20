@@ -63,8 +63,8 @@ The updated settings are used in the next round when the <span class="nav-icon">
 
 These changes affect only the current session. They do not modify the original Session Profile.
 
-<img src="images/session-settings.png"
-     alt="Session Settings"
+<img src="images/session-settings.png?v=4.1.1"
+     alt="Session Settings with four courts, doubles, balanced teams, mixed games preference, 15-minute games, and Cancel and Save buttons"
      width="400">
 
 *Session Settings allows the game generation settings for the current session to be adjusted.*
