@@ -18,6 +18,14 @@ This means that if you update a player's name or Skill Level on the **Players** 
 
 *The Session Profiles page showing the available Session Profiles and the number of players assigned to each profile.*
 
+Tap a profile to choose **Edit**, **Delete** or **Prepare Attendance**.
+
+<img src="images/session-profile-actions.png?v=4.1.1"
+     alt="Friday Night Social profile menu with Edit, Delete, Prepare Attendance and Cancel"
+     width="348">
+
+*Use the profile menu to edit its settings and players, prepare attendance, or delete the profile after confirmation.*
+
 ---
 
 ## Creating a Session Profile
