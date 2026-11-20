@@ -63,6 +63,12 @@ Player details can be updated whenever required.
 
 Tap a player's name on the **Players** page and choose **Edit**. Make your changes, then select **Save**. The same player menu also offers **Delete**.
 
+<img src="images/player-actions.png?v=4.1.1"
+     alt="Isaac Harper's player menu with Edit, Delete and Cancel"
+     width="264">
+
+*Tap a player on the Players page to choose Edit or Delete. Deletion requires a separate confirmation.*
+
 Typical reasons for editing a player include:
 
 * correcting a name
