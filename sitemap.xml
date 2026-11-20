@@ -1,71 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/</loc>
-		<lastmod>2026-08-10</lastmod>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/download.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/issues.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/01-introduction.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/02-players.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/03-session-profiles.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/04-running-a-session.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/05-game-generation.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/06-display-games.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/07-countdown-timer.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/08-options.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/09-configuration.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/10-glossary.html</loc>
-	</url>
-
-	<url>
-		<loc>https://courtzapp.co.uk/help/index.html?page=12-tournaments</loc>
-		<lastmod>2026-11-11</lastmod>
-	</url>
-
+  <url>
+    <loc>https://courtzapp.co.uk/</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/download.html</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/version-history.html</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/privacy-policy.html</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/issues.html</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=01-getting-started</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=02-players</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=03-session-profiles</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=04-running-a-session</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=05-game-generation</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=06-display-games</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=07-countdown-timer</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=08-options</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=09-configuration</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=10-glossary</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=11-licensing</loc>
+  </url>
+  <url>
+    <loc>https://courtzapp.co.uk/help/index.html?page=12-tournaments</loc>
+  </url>
 </urlset>
