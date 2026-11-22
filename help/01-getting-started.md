@@ -6,6 +6,8 @@ CourtZ helps you organise court sports sessions by managing attendance, generati
 
 Whether you're organising a one-off session with friends or running a regular club session, CourtZ can adapt to the way you organise your sessions.
 
+[Watch the six-minute getting-started tutorial](../index.html#tutorial) for a walkthrough of a four-court club session.
+
 ## Free Trial
 
 CourtZ includes a fully functional 30-day trial.

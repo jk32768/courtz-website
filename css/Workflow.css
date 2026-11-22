@@ -6,6 +6,24 @@
     padding: 4rem 0;
 }
 
+.tutorial {
+    background: #fff;
+    scroll-margin-top: 7rem;
+}
+
+.tutorial .section-heading {
+    margin-bottom: 1.75rem;
+}
+
+.tutorial video {
+    display: block;
+    width: min(100%, 860px);
+    height: auto;
+    margin-inline: auto;
+    border-radius: 12px;
+    background: #10263a;
+}
+
 .workflow-layout {
     display: grid;
     grid-template-columns: 1fr 1fr;
