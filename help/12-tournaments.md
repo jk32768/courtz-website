@@ -2,7 +2,7 @@
 
 Tournament mode runs competitions with recorded results, standings and draws. You can run singles, fixed-pair doubles or team events, save progress and return to an event later.
 
-Tournament mode is available from **CourtZ 4.0.0** onwards. This guide describes **4.1.2**. Earlier versions, including **3.5.4**, support Play Sessions without tournament mode. See [Download CourtZ](../download.html) for the available versions.
+Tournament mode is available from **CourtZ 4.0.0** onwards. This guide describes **4.2.0**. Earlier versions, including **3.5.4**, support Play Sessions without tournament mode. See [Download CourtZ](../download.html) for the available versions.
 
 ## In this guide
 
@@ -190,7 +190,7 @@ Results determine who advances and, for Swiss, later pairings. Going backwards w
 
 Tap its recorded score to reopen the result editor. A changed result can affect later pairings, qualifiers or bracket matches. Review CourtZ's confirmation before accepting the correction: dependent results may need to be discarded and played again. Play Session **Undo** does not provide an undo history for tournament score changes.
 
-![Tournament quarterfinals with court scores and the Results button](../images/TournamentRound.png)
+![Tournament quarterfinals with court scores and the Results button](../images/TournamentRound.png?v=4.2.0)
 
 ### Change courts or time limits during an event
 
@@ -227,9 +227,9 @@ Read the preview before confirming. The effect of a withdrawal depends on the fo
 
 Progress and results are saved as you work. Select the same tournament profile again on **Games** to resume an event in progress or review a completed one. If offered **Start new tournament**, choose it only when you intend to begin another event using that profile.
 
-Open **Results** in the round heading to see the draw and standings. Drag to pan, use the zoom controls or pinch on a touchscreen. The fit control helps bring the draw back into view. The share icon creates a results image for your device's sharing options.
+Open **Results** in the round heading to see the draw and standings. Drag to pan, use the zoom controls or pinch on a touchscreen. The fit control helps bring the draw back into view. Select **Share** at the top right of the draw to share a results image.
 
-![Tournament results with the knockout draw, final score and group standings](../images/TournamentResults.png)
+![Tournament results with the knockout draw, Share at the top right, and group standings below](../images/TournamentResults.png?v=4.2.0)
 
 To move an event to another device, use [Share Configuration](09-configuration.md#sharing-a-configuration) and include its tournament profile, then import it on the other device. The exported profile includes its latest saved event. This transfers a saved copy; devices do not synchronise live scores automatically.
 

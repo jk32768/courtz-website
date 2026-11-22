@@ -83,12 +83,12 @@ When everyone has been added, select the forward arrow <span class="nav-icon">&g
 
 CourtZ creates today's session and allocates players to the available courts. If there are more players than available court spaces, the remaining players stay in the Waiting Room.
 
-When a session is started without using a Session Profile, the session name displays as **`<no profile selected>`**. This indicates that the session is using the default game settings rather than those stored in a Session Profile.
+The Games page shows **Select session** until you choose a Session Profile. If you start games without choosing a profile, CourtZ uses the default game settings.
 
 Players can be added directly to the Waiting Room from the master player list or as guest players before play begins.
 
-<img src="images/unsaved-session.png?v=4.1.1"
-     alt="Games page with no profile selected, six players in the Waiting Room, empty courts and the forward arrow to generate the first round"
+<img src="images/unsaved-session.png?v=4.2.0"
+     alt="Games page showing Select session, ten players in the Waiting Room, empty courts and the forward arrow to generate the first round"
      width="900">
 
 *A session started without using a Session Profile. Players can be added to the Waiting Room before the first games are generated.*
@@ -113,7 +113,7 @@ Players are placed in the Waiting Room automatically when:
 
 CourtZ uses the Waiting Room whenever new games are generated, automatically moving waiting players onto available courts.
 
-<img src="../images/CourtZGamesPage.png?v=4.1.1"
+<img src="../images/CourtZGamesPage.png?v=4.2.0"
      alt="Play Session with four players in the Waiting Room above four occupied courts"
      width="900">
 

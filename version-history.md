@@ -1,3 +1,12 @@
+## Version 4.2.0
+
+Version Code 27
+
+* You can print or share a PDF of all generated Play Session rounds. This is useful when planning games in advance or when the live display is too small for players to see.
+* Minor improvements to the session header and control colours.
+
+---
+
 ## Version 4.1.2
 
 Version Code 26
