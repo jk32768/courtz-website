@@ -94,7 +94,7 @@ It is designed to be displayed on a tablet, television or projector so players c
 
 ## Swap Player
 
-A manual adjustment to the latest Play Session round. Drag one player onto another, or choose **Swap player** from the player's menu and tap the other player. A swap exchanges their places on court or in the Waiting Room. Current partners and empty spaces are not swap targets.
+A manual adjustment to the latest Play Session round. Drag one player onto another, or choose **Swap player** from the player's menu and tap the other player. On a phone or tablet, press and hold briefly before dragging; swiping immediately scrolls the page. A swap exchanges their places on court or in the Waiting Room. Current partners and empty spaces are not swap targets.
 
 ---
 

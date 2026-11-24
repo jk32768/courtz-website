@@ -53,7 +53,7 @@ For a competition with scoring, draws and standings, create a **Tournament** fro
 
 ### Adjusting a Round During Play
 
-In a Play Session, you can swap players by dragging one player onto another or choosing **Swap player** from their menu. The blue **Undo** icon in the session selector strip reverses changes made during the current round. See [Manual Round Adjustments](05-game-generation.md#manual-round-adjustments).
+In a Play Session, you can swap players by dragging one player onto another or choosing **Swap player** from their menu. **On a phone or tablet, press and hold briefly before dragging**; swiping immediately scrolls the page. The blue **Undo** icon in the session selector strip reverses changes made during the current round. See [Manual Round Adjustments](05-game-generation.md#manual-round-adjustments).
 
 ## Which approach should I choose?
 

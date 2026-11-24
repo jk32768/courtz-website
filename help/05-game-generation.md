@@ -204,6 +204,8 @@ The menu shows the options applicable to the player's current status.
 
 In a Play Session, you can adjust the latest round by dragging one player onto another to swap them. You can swap with an opponent, someone on another court, or someone in the Waiting Room. A player's current partner and empty spaces are not swap targets.
 
+**On a phone or tablet, press and hold the player briefly before dragging.** Keep your finger still for about a second, then move it onto the other player without lifting it. Swiping immediately scrolls the page instead.
+
 Alternatively, tap the player, choose **Swap player**, then tap the other player. Select **Cancel swap** if you change your mind.
 
 To reach players off screen while dragging on Android or Windows, hold near the top or bottom edge of the scrolling area.
