@@ -32,6 +32,25 @@
     opacity:.95;
 }
 
+.cta-actions{
+    display:flex;
+    flex-wrap:wrap;
+    gap:1rem;
+    margin-top:1.25rem;
+}
+
+.cta-panel .secondary-button{
+    color:#ffffff;
+    background:transparent;
+    border:1px solid #ffffff;
+    border-radius:999px;
+}
+
+.cta-panel .secondary-button:hover{
+    color:#0f172a;
+    background:#ffffff;
+}
+
 .cta-panel .primary-button{
     background:#ffffff;
     color:#0f172a;
@@ -50,6 +69,10 @@
     .cta-panel{
         flex-direction:column;
         text-align:center;
+    }
+
+    .cta-actions{
+        justify-content:center;
     }
 
 }
