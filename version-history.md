@@ -1,3 +1,11 @@
+## Version 4.2.1
+
+Version Code 28
+
+* Fixed the Expected Games pop-up so the plus button stays visible on narrow phone screens.
+
+---
+
 ## Version 4.2.0
 
 Version Code 27
