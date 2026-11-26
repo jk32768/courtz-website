@@ -1,3 +1,12 @@
+## Version 4.2.2
+
+Version Code 29
+
+* Players with an expected number of games still get priority to play, and are mixed more evenly across courts.
+* Improved responsiveness when listing or selecting players and swapping players on court.
+
+---
+
 ## Version 4.2.1
 
 Version Code 28
